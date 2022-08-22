@@ -9,7 +9,7 @@
 
 # ------------------------------------------------------------------------------
 # Title & Description
-title: The State of Museum Digital Practice | 2021
+title: The State of Museum Digital Practice | 2022
 subtitle: A collection of graduate essays and responses
 reading_line:
 short_title:
@@ -17,13 +17,13 @@ short_title:
 description:
   one_line:
   full: >-
-    *The State of Museum Digital Practice | 2021* is written, edited and published by students in *Museums and Technology* at George Washington University.
+    *The State of Museum Digital Practice | 2022* is written, edited and published by students in *Museums and Technology* at George Washington University.
 
 # ------------------------------------------------------------------------------
 # Publication Details
 # ------------------------------------------------------------------------------
 
-pub_date: 2019-03-01 # YYYY-MM-DD
+pub_date: 2022-12-01 # YYYY-MM-DD
 language: en
 pub_type: book # book | journal-periodical | other
 
@@ -32,9 +32,9 @@ identifier:
   url:
 
 publisher:
-  - name: Ad Hoc Museum Collective
+  - name: GWU Museum Studies
     location: Washington, D.C.
-    url: https://ad-hoc-museum-collective.github.io/
+    url: https://GWU-Museum-Studies.github.io/
     logo:
 
 # ------------------------------------------------------------------------------
@@ -53,159 +53,195 @@ contributor:
     bio: "Dr. Suse Anderson (She/Her) is Assistant Professor, Museum Studies at [The George Washington University](https://corcoran.gwu.edu/museum-studies) and producer [museopunks](http://museopunks.org)–the podcast for the progressive museum. A former President of [MCN](http://mcn.edu), Anderson teaches courses related to museums and technology, ethics and visitor experience. She holds a PhD from The University of Newcastle, Australia. [Connect on Twitter.](http://twitter.com/shineslike)"
     url:
     pic: contributors/suse-anderson.jpg
-  - id: achen
+  - id: abarilotti
     type: primary
-    first_name: Ashley
-    last_name: Chen
+    first_name: Alyssa
+    last_name: Barilotti
     title:
     affiliation: The George Washington University
-    bio: "Ashley Chen is pursuing a M.A. in Museum Studies with a concentration in Public Engagement and holds B.A.s from U.C. Berkeley in Physics and Art History, with an Asian Art focus. She has six years of experience teaching children a variety of subjects including science, math, music, and art in different learning environments such as museums and after-school programs. Her interests include museum education and public programming, feminist art history, and making STEAM more accessible."
+    bio:
     url:
-    pic: contributors/achen.jpg
-  - id: mcoward
+    pic:
+  - id: swaltman
     type: primary
-    first_name: Montana
-    last_name: Coward
+    first_name: Sam
+    last_name: Waltmam
     title:
     affiliation: The George Washington University
-    bio: "Montana Coward is a first year masters student at George Washington University, pursuing a degree in Museum Studies with a focus on collections management. She earned her B.A. in History at Christopher Newport University. She is devoted to exploring new ways of making museums' collections more accessible for all."
+    bio:
     url:
-    pic: contributors/mcoward.jpg
-  - id: edietrick
+    pic:
+  - id: mvelardedeorbegoso
     type: primary
-    first_name: Erin
-    last_name: Dietrick
+    first_name: Marisa Julia Pauli
+    last_name: Velarde de Orbegoso
     title:
     affiliation: The George Washington University
-    bio: "Erin Dietrick is a first year Museum Studies student within the Public Engagement concentration. She received her B.A. in History from the University of Rochester in Rochester, New York and is passionate about fostering meaningful connection between the public and their local museums. She believes in the importance of lifelong learning and wants to find new ways for people of all ages to engage with history."
+    bio:
     url:
-    pic: contributors/edietrick.jpg
-  - id: mdunn
+    pic:
+  - id: gbautista
     type: primary
-    first_name: Maura
-    last_name: Dunn
+    first_name: Grace
+    last_name: Bautista
     title:
     affiliation: The George Washington University
-    bio: "Maura Dunn is currently a first year graduate student at the George Washington University with a focus in Exhibitions and Visitor Experience. She received her undergraduate degree in History from the University of South Carolina and moved to Washington D.C. in August 2020. Maura strives to one day work for the Smithsonian American History Museum here in D.C. Email: [maurad@gwu.edu](mailto:maurad@gwu.edu)."
+    bio:
     url:
-    pic: contributors/mdunn.jpg
-  - id: sgiramma
+    pic:
+  - id: sbateman
     type: primary
-    first_name: Saskia
-    last_name: Giramma
+    first_name: Sam
+    last_name: Bateman
     title:
     affiliation: The George Washington University
-    bio: "Saskia is a second year grad student in the Exhibition Design program at George Washington University. Her background is in design and production for live theater, specifically lighting design and stage management. She is from New England, but now resides outside of Washington DC in Alexandria, VA. She is interested in exhibition lighting, interactive multi-media, digital 3D modeling, and universally accessible design."
+    bio:
     url:
-    pic: contributors/sgiramma.jpg
-  - id: cgriffin
-    type: primary
-    first_name: Claire
-    last_name: Griffin
-    title:
-    affiliation: The George Washington University
-    bio: "Claire Griffin is currently a first year graduate student in the Museum Studies program at George Washington Univerty. She earned her B.A. in Anthropology from Indiana University. She is dedicated to pursuing equity in historical narratives and creating a more inclusive spaces for the communities we serve. [Connect by email.](clairegriffin52@gmail.com)"
-    url:
-    pic: contributors/cgriffin.jpg
-  - id: hhigingbotham
-    type: primary
-    first_name: Haley
-    last_name: Higingbotham
-    title:
-    affiliation: The George Washington University
-    bio: "Haley Higingbotham is a Museum Studies graduate student at George Washington University, concentrating in Collections Management. She received undergraduate degrees in History and Classics from the University of Georgia. An emerging museum professional, Haley currently works at the Special Collections Research Center at the George Washington University as a Digitization Assistant and at Dumbarton House as a Event and Public Programs Assistant. Email:  [hmhigingbotham@gmail.com](mailto:hmhigingbotham@gmail.com) Twitter: [@museofmuseums](https:twitter.com/museofmuseums)"
-    url:
-    pic: contributors/hhigingbotham.jpg
-  - id: zhou
-    type: primary
-    first_name: Zhujun
-    last_name: Hou
-    title:
-    affiliation: The George Washington University
-    bio: "Born in Shenyang, China, Zhujun Hou is an international student in the Museum Studies Program, focusing on museum exhibition and visitor’s experience.  She got her Bachelor degree in Art History and minor in ceramic from Centre College in Danville, Kentucky. Zhujun is really interested in Buddhist cave arts (Dunhuang Mogao Caves), Asian art  and museum curatorial works in general. Email: [asteriahou@gmail.com](mailto:asteriahou@gmail.com)  Instagram: [houzhujun](https://instagram.com/houzhujun)."
-    url:
-    pic: contributors/zhou.jpg
-  - id: mlynch
-    type: primary
-    first_name: Matthew
-    last_name: Lynch
-    title:
-    affiliation: The George Washington University
-    bio: "Matt Lynch is a graduate student at George Washington University on the visitor experiences track. He hopes to eventually curate at a history museum or historic house/site. Before GW, he worked in non-profit marketing for five years and received his BA in History at Cornell University with a focus on the Near/Middle East."
-    url:
-    pic: contributors/mlynch.jpg
-  - id: mmungo
-    type: primary
-    first_name: Madeline
-    last_name: Mungo
-    title:
-    affiliation: The George Washington University
-    bio: "Madeline Mungo is a first-year Museum Studies student at George Washington University. Raised in small-town Texas, she received her B.A. in Liberal Arts concentrated in Art History and Museum Ethics from Sarah Lawrence College in Bronxville, NY, as well as spending a semester at the Institute of Archaeology through University College London in 2020. She has a particular interest in museum ethics and a long-held love of Ancient Egyptian and Near Eastern Art. Connect on [Twitter](https://twitter.com/museumadeline)."
-    url:
-    pic: contributors/mmungo.jpg
-  - id: tnew
-    type: primary
-    first_name: TJ
-    last_name: New
-    title:
-    affiliation: The George Washington University
-    bio: "Terrance New is a second-year Master’s candidate in Anthropology with a concentration in Museum Studies and holds a B.S. from the George Washington University in Biological Anthropology.  His research interests include the ecology and evolution of early humans, primatology, and public engagement with science."
-    url:
-    pic: contributors/tjnew.jpg
-  - id: mnguyen
+    pic:
+  - id: msnyder
     type: primary
     first_name: Megan
-    last_name: Nguyễn
+    last_name: Snyder
     title:
     affiliation: The George Washington University
-    bio: "Megan Nguyễn is a first-year graduate student pursing a degree in Museum Studies at George Washington University, with a focus on Exhibition and Visitor Experience. She believes 21st century museums are spaces for continued learning, creative storytelling, human connection, and social justice. Megan commits herself to examining museology with equity at the forefront, and hopes to provide more engaging and inclusive experiences to the next generation of museum visitors."
+    bio:
     url:
-    pic: contributors/mnguyen.jpg
-  - id: krice
+    pic:
+  - id: sfarver
     type: primary
-    first_name: Kate
-    last_name: Rice
+    first_name: Sarah
+    last_name: Farver
     title:
     affiliation: The George Washington University
-    bio: "Kate Rice is a second year Museum Studies student at the George Washington University. With her concentration in Museum Management, Rice hopes to work in project management or development after graduation in May 2021. Rice has previously interned with the National Asian Art Museum and the George Washington University Museum and the Textile Museum."
+    bio:
     url:
-    pic: contributors/krice.jpg
-  - id: jsanford
+    pic:
+  - id: skaminski
     type: primary
-    first_name: Jake
-    last_name: Sanford
+    first_name: Sophie
+    last_name: Kaminski
     title:
     affiliation: The George Washington University
-    bio: "Jake Sanford is a first-year Museum Studies student at George Washington University and is currently working on an upcoming exhibit at the National Museum of American History. He is 23 years old and focused on making sure that the museum of the future is a just and accessible space for all. He wants to thank Julia Beu, without whom this work would not exist, and the many experts whose diligent research helped him immensely in shaping this piece."
+    bio:
     url:
-    pic: contributors/jsanford.jpg
-  - id: nstorercorrada
+    pic:
+  - id: jingrum
     type: primary
-    first_name: Norman
-    last_name: Storer Corrada
+    first_name: Joey
+    last_name: Ingrum
     title:
     affiliation: The George Washington University
-    bio: "Norman Raúl Storer Corrada (he/him/his) is a second-year Museum Studies master’s student at the George Washington University. He is originally from San Juan, Puerto Rico. After graduating with a BA in Archaeology and Romance Languages & Literatures from Harvard University, he completed a Humanities Fellowship at Dumbarton Oaks and Smithsonian Folkways Recordings. He is currently a virtual museum teacher at Planet Word."
+    bio:
     url:
-    pic: contributors/nstorercorrada.jpg
-  - id: hstubee
+    pic:
+  - id: kcanner
+    type: primary
+    first_name: Kirstin
+    last_name: Canner
+    title:
+    affiliation: The George Washington University
+    bio:
+    url:
+    pic:
+  - id: dmountin
+    type: primary
+    first_name: Diego
+    last_name: Mountin
+    title:
+    affiliation: The George Washington University
+    bio:
+    url:
+    pic:
+  - id: hspiering
     type: primary
     first_name: Hannah
-    last_name: Stubee
+    last_name: Spiering
     title:
     affiliation: The George Washington University
-    bio: "Hannah Stubee is a first year Museum Studies masters student with a concentration in collections management at George Washington University. Originally a painter, she received a BA in Studio Art at Lewis & Clark College, where she gained an appreciation for the power of objects from a maker’s perspective. Hannah went on to assist painting conservator, Nina Olsson, and transcribed oral histories for Vietnamese Portland. She currently works at George Washington University’s Visual Resource Center."
+    bio:
     url:
-    pic: contributors/hstubee.jpg
-  - id: dvalera
+    pic:
+  - id: eday
     type: primary
-    first_name: Devon
-    last_name: Valera
+    first_name: Elizabeth
+    last_name: Day
     title:
     affiliation: The George Washington University
-    bio: "Devon Valera is a second year Museum Studies graduate student at George Washington University. She received her B.S. in Biopsychology from Tufts University in 2019. She is currently the Curatorial Assistant at the National Institute of Health’s Office of NIH History and Stetten Museum as well as an intern with the Education and Outreach Department at the National Museum of Natural History. Passionate about science communication, she values institutions that center accessibility and community engagement."
+    bio:
     url:
-    pic: contributors/dvalera.jpg
+    pic:
+  - id: asantos
+    type: primary
+    first_name: Anissa
+    last_name: Santos
+    title:
+    affiliation: The George Washington University
+    bio:
+    url:
+    pic:
+  - id: etolman
+    type: primary
+    first_name: Elsa
+    last_name: Tolman
+    title:
+    affiliation: The George Washington University
+    bio:
+    url:
+    pic:
+  - id: mwilliams
+    type: primary
+    first_name: Megan
+    last_name: Williams
+    title:
+    affiliation: The George Washington University
+    bio:
+    url:
+    pic:
+  - id: dwiles
+    type: primary
+    first_name: Didi
+    last_name: Wiles
+    title:
+    affiliation: The George Washington University
+    bio:
+    url:
+    pic:
+  - id: rkiss
+    type: primary
+    first_name: Raeana
+    last_name: Kiss
+    title:
+    affiliation: The George Washington University
+    bio:
+    url:
+    pic:
+  - id: rprice
+    type: primary
+    first_name: Rachael
+    last_name: Price
+    title:
+    affiliation: The George Washington University
+    bio:
+    url:
+    pic:
+  - id: jcarkenord
+    type: primary
+    first_name: Jamie
+    last_name: Carkenord
+    title:
+    affiliation: The George Washington University
+    bio:
+    url:
+    pic:
+  - id: abessler
+    type: primary
+    first_name: Andrew
+    last_name: Bessler
+    title:
+    affiliation: The George Washington University
+    bio:
+    url:
+    pic:
 
 # ------------------------------------------------------------------------------
 # Copright & License
@@ -257,23 +293,9 @@ resource_link:
 # ------------------------------------------------------------------------------
 
 subject:
-  - type: bisac
-    name: PHOTOGRAPHY / Subjects & Themes / Historical
-    identifer: PHO023100
-  - type: getty
-    name: Dorothea Lange
-    identifier: "https://vocab.getty.edu/ulan/500007674"
   - type: keyword
-    name: photography
-  - type: getty
-    name: Walker Evans
-    identifier: "https://vocab.getty.edu/ulan/500012076"
-  - type: getty
-    name: black-and-white photography
-    identifier: "https://vocab.getty.edu/aat/300162056"
-  - type: getty
-    name: despression (economic concept)
-    identifier: "https://vocab.getty.edu/aat/300410245"
+    name: museums, technology, museum studies, digital practice, emerging technology
+
 
 # ------------------------------------------------------------------------------
 # Revision History
