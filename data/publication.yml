@@ -86,9 +86,9 @@ contributor:
     last_name: Bautista
     title:
     affiliation: The George Washington University
-    bio:
+    bio: "Grace Bautista (*she/her*) is a second-year museum studies student at the George Washington University, where she also received her BA in American studies. Through her concentration in public engagement, she has worked at the intersection of digital media, education, and public programs. Grace is currently an intern at the Smithsonian Asian Pacific American Center, where she is interested in building community through digital education resources. Email: [gbautista@gwu.edu](mailto:gbautista@gwu.edu)."
     url:
-    pic:
+    pic: contributors/gbautista.jpg
   - id: sbateman
     type: primary
     first_name: Sam
@@ -176,9 +176,9 @@ contributor:
     last_name: Santos
     title:
     affiliation: The George Washington University
-    bio:
+    bio: "Anissa Santos is a first-year graduate student in the Museum Studies program at The George Washington University with an emphasis in Exhibitions and Visitor Experience. She graduated from the University of Southern California (USC) with a Bachelor of Arts in Media Arts + Practice and a minor in History. She hopes to combine her digital media design experience and research expertise to pursue curatorial work, exhibition design, museum education, or public programming in the museum field. Email: [amsantos@gwu.edu](mailto:amsantos@gwu.edu) Website: [anissamsantos.com](http://anissamsantos.com)"
     url:
-    pic:
+    pic: contributors/asantos.jpg
   - id: etolman
     type: primary
     first_name: Elsa

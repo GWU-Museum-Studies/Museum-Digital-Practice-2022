@@ -5,7 +5,7 @@ menu: false
 type: cover
 slug: .
 toc: false
-image: rhino.jpg
+image: rhino1.jpg
 
 ---
 

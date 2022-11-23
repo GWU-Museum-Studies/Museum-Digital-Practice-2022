@@ -13,7 +13,6 @@ abstract: |
 
 Publication Text
 
-
 ## Notes
 
 Notes text
