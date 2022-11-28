@@ -4,9 +4,9 @@ This publication was created using Quire™, a multiplatform publishing tool own
 
 ## Quire Starter README.md
 
-This is placeholder text for Quire's default starter README.md; it is automatically generated when running `quire new` along with the content of this default starter project. We invite you to update this README.md with information relevant to the project you are working on. Learn more about what a README.md is and how to create an effective one for your project in the [GitHub docs](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/about-readmes). 
+This is placeholder text for Quire's default starter README.md; it is automatically generated when running `quire new` along with the content of this default starter project. We invite you to update this README.md with information relevant to the project you are working on. Learn more about what a README.md is and how to create an effective one for your project in the [GitHub docs](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/about-readmes).
 
-For more information on updating the content of your publication please see below. 
+For more information on updating the content of your publication please see below.
 
 - The `content` directory holds all the main text content of the publication in a standard Markdown format.
 
@@ -16,10 +16,8 @@ For more information on updating the content of your publication please see belo
 
 - Figures are held in the `static/img` directory, typically in JPG, PNG, GIF or SVG formats.
 
-Please visit the [_Get Started_](https://quire.getty.edu/documentation/getting-started/) section of our documentation to learn more. 
+Please visit the [_Get Started_](https://quire.getty.edu/documentation/getting-started/) section of our documentation to learn more.
 
 ### License
 
 Quire Copyright © 2021, J Paul Getty Trust.
-
-

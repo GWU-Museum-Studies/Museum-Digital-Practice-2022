@@ -91,13 +91,13 @@ contributor:
     pic: contributors/gbautista.jpg
   - id: sbateman
     type: primary
-    first_name: Sam
+    first_name: Samantha
     last_name: Bateman
     title:
     affiliation: The George Washington University
-    bio:
+    bio: "Samantha Bateman (she/her/hers) is a Museum Studies graduate student at George Washington University concentrating in Museum Management. She received an A.A. in General Humanities from Montgomery College in 2017 and a B.A. in Anthropology from American University in 2019, after spending a semester in the Department of Anthropology and Institute of Archaeology at University of College London in 2018. Samantha believes that museums have the power to be positive changemakers in the communities they serve through championing accessibility and fostering life-long learning."
     url:
-    pic:
+    pic: contributors/sbateman.jpg
   - id: msnyder
     type: primary
     first_name: Megan
@@ -214,9 +214,9 @@ contributor:
     last_name: Kiss
     title:
     affiliation: The George Washington University
-    bio:
+    bio: "Raeana Kiss is pursuing an M.A. in Museum Studies at George Washington University, with a concentration in Exhibitions and Visitor Experience. She recently graduated from Cornell University with a B.A. in Biological Sciences, with a concentration in Ecology and Evolutionary Biology. In addition to her academic pursuits, Raeana's other passions include painting and hiking. She hopes to use her future museum career to help bridge the knowledge gap between scientific research and public understanding."
     url:
-    pic:
+    pic: contributors/rkiss.jpg
   - id: rprice
     type: primary
     first_name: Rachael

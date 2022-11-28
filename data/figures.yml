@@ -164,3 +164,67 @@ figure_list:
     src: figures/fig-kaminski-03.jpg
   - id: "fig-kaminski-04"
     src: figures/fig-kaminski-04.jpg
+  - id: "fig-bateman-01"
+    src: figures/fig-bateman-01.png
+  - id: "fig-bateman-02"
+    src: figures/fig-bateman-02.pdf
+  - id: "fig-bateman-03"
+    src: figures/fig-bateman-03.png
+    label: "Figure 3"
+    caption: "Screenshot of the 1887 wedding esemble worn by Louise Whitfield Carnegie on the MET's website."
+    alt: "The page has the object information, object location, and object description on the left with a large viewing window to the right and multiple images below to scroll through and select to be enlarged."
+  - id: "fig-bateman-04"
+    label: "Figure 4"
+    caption: Screenshot of the 1884-1886 dinner dress on the MET's website"
+    alt: The page has the object information, object location, and object description on the left with a large viewing window to the right and two images below to scroll through and select to be enlarged."
+    src: figures/fig-bateman-04.png
+  - id: "fig-bateman-06"
+    src: figures/fig-bateman-06.png
+  - id: "fig-bateman-07"
+    src: figures/fig-bateman-07.pdf
+  - id: "fig-bateman-08"
+    src: figures/fig-bateman-08.pdf
+  - id: "fig-kiss-01"
+    src: figures/fig-kiss-01.png
+    caption: "**Figure 1**: Using *The Planet through Deep Time* in the Fossil Hall."
+    media_id: Lu1OMQpp3Ps
+    media_type: youtube
+  - id: "fig-kiss-02"
+    src: figures/fig-kiss-02.png
+    caption: "**Figure 2**: Taking the quiz, *Take a Closer Look*, in the *Objects of Wonder* exhibit."
+    media_id: vuQh2cpsbhA
+    media_type: youtube
+  - id: "fig-kiss-03"
+    src: figures/fig-kiss-03.png
+    caption: "**Figure 3**: Taking the *What's Your Ocean Animal* quiz in the Ocean Hall."
+    alt: "The author demonstrates the quiz *What’s Your Ocean Animal* in the Ocean Hall at NMNH."
+    media_id: GZFXgf9XqFc
+    media_type: youtube
+  - id: "fig-kiss-04"
+    src: figures/fig-kiss-04.png
+    caption: "**Figure 4**: Using the *Explore Your Genes* interactive in the *Genome* exhibit."
+    alt: "The author demonstrates the *Explore Your Genes* interactive in the *Genome* exhibit at NMNH."
+    media_id: V6QUwKVw0jU
+    media_type: youtube
+  - id: "fig-kiss-05"
+    src: figures/fig-kiss-05.png
+    caption: "**Figure 5**: Using the probability wheel interactive in the *Genome* exhibit."
+    alt: "The author demonstrates the probability wheel interactive in the *Genome* exhibit at NMNH."
+    media_id: 4SuX_VIayTs
+    media_type: youtube
+  - id: "fig-kiss-06"
+    src: figures/fig-kiss-06.PNG
+  - id: "fig-kiss-07"
+    src: figures/fig-kiss-07.PNG
+  - id: "fig-kiss-08"
+    src: figures/fig-kiss-08.png
+    caption: "**Figure 8**: Using the *Morph Station* interactive in the Hall of Human Origins."
+    alt: "The author demonstrates the *Morph Station* in the Hall of Human Origins at NMNH."
+    media_id: rWefKqahxYI
+    media_type: youtube
+  - id: "fig-kiss-09"
+    src: figures/fig-kiss-09.png
+    caption: "**Figure 9**: A non-functional interactive in the *Genome* exhibit."
+    alt: "The author demonstrates a non-functional interactive in the *Genome* exhibit at NMNH. The video is recorded with a first-person point of view. A touchpad is embedded in a panel, with a caption that reads “Drag to move the cursor. Tap to select.” The author’s finger moves sporadically on the cursor and taps several times. The video pans up to the screen associated with the touchpad. It reads “Exploring Our Genomic Ancestry” with a bubble that says “Touch the Trackpad to Begin.” The camera pans back and forth between the touchpad and the screen, showing that the screen does not respond to the movement on the touchpad."
+    media_id: QVD6TOHZ9s0
+    media_type: youtube
