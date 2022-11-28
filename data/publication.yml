@@ -65,12 +65,12 @@ contributor:
   - id: swaltman
     type: primary
     first_name: Sam
-    last_name: Waltmam
+    last_name: Waltman
     title:
     affiliation: The George Washington University
-    bio:
+    bio: "Sam Waltman is a graduating MA student in the George Washington Museum Studies MA Program with a focus in collections management. Sam graduated from Dickinson College in 2020 with degrees in History and Educational Studies. Through internships at Fort Ticonderoga, the National Museum of American History and the National Endowment for the Humanities, Sam has developed a strong interest in the tools that museums use to manage and fund their collections projects. Sam has a special interest in how different mediums effect audience interpretation of information.  Sam currently works full time as a Collections Technician at George Washington’s Mount Vernon."
     url:
-    pic:
+    pic: contributors/swaltman.jpg
   - id: mvelardedeorbegoso
     type: primary
     first_name: Marisa Julia Pauli
@@ -113,18 +113,19 @@ contributor:
     last_name: Farver
     title:
     affiliation: The George Washington University
-    bio:
+    bio: "Sarah Farver is a Museum Studies graduate student at the George Washington University. Her current role at The George Washington University Museum and The Textile Museum focuses on communications and the visitor experience. Farver pursues her passion for museum education as a volunteer at the National Archives Museum and her love of the performing arts as an usher at the Kennedy Center. She holds a BA in History with a certificate in Public History and a minor in Art History from The College of William & Mary. [Connect on LinkedIn](https://www.linkedin.com/in/sarah-farver-538539117/)."
     url:
-    pic:
+    pic: contributors/sfarver.jpg
   - id: skaminski
     type: primary
-    first_name: Sophie
+    first_name: Sophia
     last_name: Kaminski
     title:
     affiliation: The George Washington University
-    bio:
+    bio: "Sophia Kaminski is a second-year graduate student in George Washington University's Museum Studies program with a concentration in Collections Management. She earned her BS in History and minor in Sociology from Grand Valley State University located in Grand Rapids, Michigan. Currently, Sophia is an intern with Smithsonian's National Collections Program. Sophia's strong passion for museum ethics has and continues to guide her work.
+    [connect via email] (sophiackaminski99@gmail.com)"
     url:
-    pic:
+    pic: contributors/skaminski.jpg
   - id: jingrum
     type: primary
     first_name: Joey
@@ -140,9 +141,9 @@ contributor:
     last_name: Canner
     title:
     affiliation: The George Washington University
-    bio:
+    bio: "Kirstin Canner (she,her) graduated from The George Washington University's Museum Studies masters program in December 2022 with a concentration in Exhibitions and Visitor Experience. She also holds a Bachelor of Arts in Studio Art from High Point University. Prior to her GW journey, she managed The American Treasure Tour Museum, a small pop culture museum outside of Philadelphia. Kirstin has just concluded an internship with the Education Department at the [Capital Jewish Museum](https://capitaljewishmuseum.org/), and is looking forward to her next quirky museum job. Connect via email: kirstincanner@gmail.com or [LinkedIn](https://www.linkedin.com/in/kirstin-canner-9043a2159/)."
     url:
-    pic:
+    pic: contributors/kcanner.png
   - id: dmountin
     type: primary
     first_name: Diego

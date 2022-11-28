@@ -125,3 +125,42 @@ figure_list:
     media_type: youtube
   - id: "fig-ingrum-05"
     src: figures/fig-ingrum-05.jpg
+  - id: "fig-canner-01"
+    src: figures/fig-canner-01.png
+  - id: "fig-canner-02"
+    src: figures/fig-canner-02.png
+    caption: "Figure 2: VOMA Director, Lee Cavaliere takes you on a virtual tour of VOMA"
+    media_id: 601714831?embedded=true&source=vimeo_logo&owner=133936730
+    media_type: Vimeo
+  - id: "fig-canner-03"
+    src: figures/fig-canner-03.png
+  - id: "fig-canner-04"
+    src: figures/fig-canner-04.png
+  - id: "fig-canner-05"
+    src: figures/fig-canner-05.png
+  - id: "fig-canner-06"
+    src: figures/fig-canner-06.png
+    caption: "Figure 6: VOMA creator Stuart Semple announces VOMAVERSE"
+    media_id: v=-1-mfOdoNik
+    media_type: Youtube
+  - id: "fig-canner-07"
+    src: figures/fig-canner-07.png
+    caption: "Figure 7: Welcome to VOMAVERSE!"
+    media_id: v=UGbmx6HC9Yc
+    media_type: Youtube
+  - id: "fig-waltman-01"
+    src: figures/fig-waltman-01.jpg
+  - id: "fig-farver-01"
+    src: figures/fig-farver-01.png
+  - id: "fig-farver-02"
+    src: figures/fig-farver-02.png
+  - id: "fig-farver-03"
+    src: figures/fig-farver-03.png
+  - id: "fig-kaminski-01"
+    src: figures/fig-kaminski-01.jpg
+  - id: "fig-kaminski-02"
+    src: figures/fig-kaminski-02.jpg
+  - id: "fig-kaminski-03"
+    src: figures/fig-kaminski-03.jpg
+  - id: "fig-kaminski-04"
+    src: figures/fig-kaminski-04.jpg
