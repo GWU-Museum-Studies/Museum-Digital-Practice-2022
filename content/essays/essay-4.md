@@ -78,13 +78,6 @@ It is difficult to deny the benefits provided by open access resources to museum
 
 Museum scholars have argued that the museum cannot be decolonized.[^66] This is a crucial perspective as museums reconcile with the violent colonial history of their physical locations, objects, and data. Each of these aspects can perpetuate colonialism. However, with emerging tools such as TK labels, digital repatriation, and frameworks such as the CARE Principles, museums have the opportunity to assert Indigenous cultural authority over Indigenous knowledge. This process may not decolonize the museum, but it is one step to avoid further harm and move toward healing. Rather than excluding Indigenous voices—thus perpetuating a cycle of dependence on museums to learn one’s own cultural knowledge—museums can collaborate with Indigenous people and ensure better stewardship for all.
 
-
-
-## Biography
-Grace Bautista (*she/her*) is a second-year museum studies student at the George Washington University, where she also received her BA in American studies. Through her concentration in public engagement, she has worked at the intersection of digital media, education, and public programs. Grace is currently an intern at the Smithsonian Asian Pacific American Center, where she is interested in building community through digital education resources. Email: gbautista@gwu.edu.
-
-
-
 ## Notes
 [^1]: Dr. Tahu Kukutai, Te Ritorito 2017: “Understanding Indigenous Data Sovereignty,” 2017. https://www.youtube.com/watch?v=BWX8qS0mTAg.
 [^2]: Ridge, Mia. "Unlocking Potential: Where Next for Open Cultural Data in Museums?" *Museum-ID* (blog), October 19, 2017.

@@ -49,3 +49,79 @@ figure_list:
     src: figures/fig-bautista-05.png
   - id: "fig-bautista-06"
     src: figures/fig-bautista-06.png
+  - id: "fig-carkenord-01"
+    src: figures/fig-carkenord-01.jpg
+  - id: "fig-carkenord-02"
+    src: figures/fig-carkenord-02.jpg
+  - id: "fig-carkenord-03"
+    src: figures/fig-carkenord-03.jpg
+  - id: "fig-carkenord-04"
+    src: figures/fig-carkenord-04.jpg
+  - id: "fig-carkenord-05"
+    src: figures/fig-carkenord-05.jpg
+  - id: "fig-carkenord-06"
+    src: figures/fig-carkenord-06.jpg
+  - id: "fig-carkenord-07"
+    src: figures/fig-carkenord-07.jpg
+  - id: "fig-carkenord-08"
+    src: figures/fig-carkenord-08.jpg
+  - id: "fig-carkenord-09"
+    src: figures/fig-carkenord-09.jpg
+  - id: "fig-carkenord-10"
+    src: figures/fig-carkenord-10.jpg
+  - id: "fig-carkenord-11"
+    src: figures/fig-carkenord-11.jpg
+  - id: "fig-carkenord-12"
+    src: figures/fig-carkenord-12.jpg
+  - id: "fig-carkenord-13"
+    src: figures/fig-carkenord-13.jpg
+  - id: "figures/fig-day-01"
+    src: figures/fig-day-01.jpg
+    caption: "Figure 1: Screen recording of Buffalo AKG Art Museum’s *NFTs and the Future of Digital Art with Assistant Curator Tina Rivers Ryan* webinar. Includes information about the Museum’s digital art collection, the history of digital art, and NFTs. Recorded by author December 13, 2021."
+    alt: "Screen recording of the Buffalo AKG Art Museum's webinar. At the top left of the page is a white banner with the text 'Albright-Knox' with the title of the webinar 'NFTs and the Future of Digital Art' in the center. On the right a white woman with light hair appears on the screen. At the bottom of the woman’s end are the terms and conditions and a submit button."
+    media_id: v=63jxZqmZ0sE
+    media_type: youtube
+  - id: "fig-tolman-01"
+    src: figures/fig-tolman-01.JPG
+  - id: "fig-tolman-02"
+    src: figures/fig-tolman-02.jpg
+  - id: "fig-tolman-03"
+    src: figures/fig-tolman-03.jpg
+  - id: "fig-tolman-04"
+    src: figures/fig-tolman-04.jpg
+  - id: "fig-tolman-05"
+    src: figures/fig-tolman-05.jpg
+  - id: "fig-tolman-06"
+    src: figures/fig-tolman-06.jpg
+  - id: "fig-tolman-07"
+    src: figures/fig-tolman-07.jpg
+  - id: "fig-tolman-08"
+    src: figures/fig-tolman-08.jpg
+  - id: "fig-tolman-09"
+    src: figures/fig-tolman-09.png
+    caption: "NMAH's Digital Collection Webpage from 100-200% Magnification. Recorded by author November 18, 2022."
+    alt: "Magnification of the “Battle between the Monitor and Merrimac” webpage from 100 percent to 200 percent. Magnification causes the text and text boxes to expand, and, at 150 percent, the three vertical lines of content to shift to 1 line."
+    media_id: v=W8rVdZrHbgg
+    media_type: youtube
+  - id: "fig-ingrum-01"
+    src: figures/fig-ingrum-01.jpg
+  - id: "fig-ingrum-02"
+    src: figures/fig-ingrum-02.jpg
+    caption: "Figure 2: *Mona Lisa: Beyond the Glass at The Louvre: HTC VIVE ARTS*. A behind the scenes look at the creation of *Mona Lisa: Beyond the Glass* by HTC VIVE Arts."
+    alt: "A video about the creation of the Louvre’s VR experience *Mona Lisa: Beyond the Glass*. Includes interviews with The Louvre’s curators and Emissive VR programmers about the creative and technical process of creating the VR experience. The video interweaves these interviews with footage from programmers working on the project and footage of the final product."
+    media_id: Au_UpzhzHwk
+    media_type: youtube
+  - id: "fig-ingrum-03"
+    src: figures/fig-ingrum-03.jpg
+    caption: "Figure 3: *British Museum – VR Heritage Weekend* Interviews with British Museum employees and visitors about the Bronze Age roundhouse VR experience."
+    alt: "Video from the British Museum’s VR Heritage Weekend event covering the museum’s VR reconstruction of a Bronze Age roundhouse. Includes interviews with museum employees and visitors discussing their experiences using this VR program and how it enhances their understanding of the Bronze Age. Footage of the interviews is mixed with footage of visitors wearing VR headsets and footage of the reconstructed roundhouse."
+    media_id: 151510535
+    media_type: vimeo
+  - id: "fig-ingrum-04"
+    src: figures/fig-ingrum-04.jpg
+    caption: "Figure 4: *HTC Vive Arts - Pompeii, the VR experience at Grand Palais* A behind the scenes look at how the Grand Palais, Ubisoft and Gedeon Programmes created *Pompeii: The VR Experience*"
+    alt: "A video on the behind the scenes process of creating *Pompeii: The VR Experience*. The video is in French with English subtitles. Includes interviews with developers and employees from the Grand Palais, Ubisoft, and Gedeon Programmes. People wearing VR headsets and working on computers are in the background of these interviews. Surveyors are seen scanning the original ruins in Pompeii and recreating this location on their computers."
+    media_id: Lx3yXysSHrU
+    media_type: youtube
+  - id: "fig-ingrum-05"
+    src: figures/fig-ingrum-05.jpg

@@ -10,7 +10,7 @@
 # ------------------------------------------------------------------------------
 # Title & Description
 title: The State of Museum Digital Practice | 2022
-subtitle: A collection of graduate essays and responses
+subtitle: A collection of graduate essays
 reading_line:
 short_title:
 
@@ -131,9 +131,9 @@ contributor:
     last_name: Ingrum
     title:
     affiliation: The George Washington University
-    bio:
+    bio: "Joseph Ingrum is a second year Museum Studies graduate student at George Washington University with a concentration in collections management. He received a B.A. in history and archaeology from Lycoming College in 2018. He has worked with museum collections at Old Sturbridge Village, Montgomery History, and the Smithsonian Museum of American History. His goal is to one day help museums adopt methods to improve their full cataloging and inventorying projects."
     url:
-    pic:
+    pic: contributors/jingrum.jpg
   - id: kcanner
     type: primary
     first_name: Kirstin
@@ -167,9 +167,9 @@ contributor:
     last_name: Day
     title:
     affiliation: The George Washington University
-    bio:
+    bio: "Elizabeth Day is currently a museum studies graduate student at The George Washington University. She attended Saint Mary’s College, Notre Dame, IN, and received B.A.s in communication studies and history, and then Elizabeth worked as Assistant Curator & Collections Manager at the Peoria Riverfront Museum in Peoria, IL. Elizabeth dreams of restoring a Chateau in the South of France and giving historic tours of the property. In the meantime, she is open to any opportunity in the museum field."
     url:
-    pic:
+    pic: contributors/eday.jpg
   - id: asantos
     type: primary
     first_name: Anissa
@@ -185,7 +185,8 @@ contributor:
     last_name: Tolman
     title:
     affiliation: The George Washington University
-    bio:
+    bio: "Elsa Tolman (she/her) is pursuing a M.A. in Museum Studies at George Washington University with a concentration in collections management. She received her B.A. in Anthropology from Brigham Young University (Provo), with a focus on socio-cultural anthropology and archaeology. She has a particular interest in increasing inclusion and accessibility in digital and physical museum collections to better serve our communities.
+    Email: tolmanelsa@gmail.com LinkedIn: https://www.linkedin.com/in/elsatolman/"
     url:
     pic:
   - id: mwilliams
@@ -230,9 +231,9 @@ contributor:
     last_name: Carkenord
     title:
     affiliation: The George Washington University
-    bio:
+    bio: "Jamie Carkenord is a first-year Museum Studies graduate student with a concentration in Exhibitions and Visitor Experience. Originally from Farmville, Virginia, she received a B.A. in American Studies from the College of William and Mary. She is interested in public history education and inclusive representation within art and history museums."
     url:
-    pic:
+    pic: jcarkenord.jpg
   - id: abessler
     type: primary
     first_name: Andrew
