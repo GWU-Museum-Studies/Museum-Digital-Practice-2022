@@ -36,7 +36,7 @@ figure_list:
     caption: "Made with [QR.io](https://qr.io/)"
     alt: "A stylized, and scannable red, yellow, and green QR code. It is framed by an illustrated grey phone background with the caption “So Easy to Make.” QR code leads to writer's LinkedIn page."
   - id: "fig-bautista-01"
-    src: figures/fig-baustista-01.png
+    src: figures/fig-bautista-01.png
     caption:
     alt:
   - id: "fig-bautista-02"
@@ -150,6 +150,8 @@ figure_list:
     media_type: Youtube
   - id: "fig-waltman-01"
     src: figures/fig-waltman-01.jpg
+  - id: "fig-waltman-02"
+    src: figures/fig-waltman-02.jpg
   - id: "fig-farver-01"
     src: figures/fig-farver-01.png
   - id: "fig-farver-02"
@@ -167,23 +169,28 @@ figure_list:
   - id: "fig-bateman-01"
     src: figures/fig-bateman-01.png
   - id: "fig-bateman-02"
-    src: figures/fig-bateman-02.pdf
+    src: figures/fig-bateman-02.png
+    label: "Figure 2"
+    caption: "Two pages from Janet Arnold's *Patterns of Fashion* series scanned by the author."
+    alt: "Two pages from Janet Arnold's *Patterns of Fashion 1* the first page of a line drawing of a mid-nineteenth-century day dress with pagoda sleeves and a mid-nineteenth-century wedding dress and the second page with the corresponding patterns of each dress."
   - id: "fig-bateman-03"
     src: figures/fig-bateman-03.png
-    label: "Figure 3"
+    label: "Figure 2"
     caption: "Screenshot of the 1887 wedding esemble worn by Louise Whitfield Carnegie on the MET's website."
     alt: "The page has the object information, object location, and object description on the left with a large viewing window to the right and multiple images below to scroll through and select to be enlarged."
   - id: "fig-bateman-04"
-    label: "Figure 4"
+    label: "Figure 3"
     caption: Screenshot of the 1884-1886 dinner dress on the MET's website"
     alt: The page has the object information, object location, and object description on the left with a large viewing window to the right and two images below to scroll through and select to be enlarged."
     src: figures/fig-bateman-04.png
   - id: "fig-bateman-06"
     src: figures/fig-bateman-06.png
   - id: "fig-bateman-07"
-    src: figures/fig-bateman-07.pdf
+    src: figures/fig-bateman-07.png
   - id: "fig-bateman-08"
-    src: figures/fig-bateman-08.pdf
+    src: figures/fig-bateman-08.png
+  - id: "fig-bateman-09"
+    src: figures/fig-bateman-09.png
   - id: "fig-kiss-01"
     src: figures/fig-kiss-01.png
     caption: "**Figure 1**: Using *The Planet through Deep Time* in the Fossil Hall."
@@ -228,3 +235,29 @@ figure_list:
     alt: "The author demonstrates a non-functional interactive in the *Genome* exhibit at NMNH. The video is recorded with a first-person point of view. A touchpad is embedded in a panel, with a caption that reads “Drag to move the cursor. Tap to select.” The author’s finger moves sporadically on the cursor and taps several times. The video pans up to the screen associated with the touchpad. It reads “Exploring Our Genomic Ancestry” with a bubble that says “Touch the Trackpad to Begin.” The camera pans back and forth between the touchpad and the screen, showing that the screen does not respond to the movement on the touchpad."
     media_id: QVD6TOHZ9s0
     media_type: youtube
+  - id: "fig-barilotti-01"
+    src: figures/fig-barilotti-01.jpg
+  - id: "fig-barilotti-02"
+    src: figures/fig-barilotti-02.jpg
+  - id: "fig-barilotti-03"
+    src: figures/fig-barilotti-03.jpg
+  - id: "fig-williams-01"
+    src: figures/fig-williams-01.jpg
+  - id: "fig-williams-02"
+    src: figures/fig-williams-02.jpg
+  - id: "fig-williams-03"
+    src: figures/fig-williams-03.jpg
+  - id: "fig-williams-04"
+    src: figures/fig-williams-04.jpg
+  - id: "fig-williams-05"
+    src: figures/fig-williams-05.jpg
+  - id: "fig-snyder-01"
+    src: figures/invocations_Fig1_snyder.png
+    caption: "Figure 1:Recording of the Invocations of the FOR THE PHOENIX TO FIND ITS FORM IN US exhibit, video posted by SAVVY Contemporary. Video includes a talk “For Those of Us the Algorithm Doesn’t See” given by Chao Tayiana Maina and Molemo Moiloa of Open Restitution Africa."
+    alt: "Recording of the Invocations of the FOR THE PHOENIX TO FIND ITS FORM IN US exhibit. The talk presented relvant to this paper is “For Those of Us the Algorithm Doesn’t See” given by Chao Tayiana Maina and Molemo Moiloa of Open Restitution Africa."
+    media_id: MZRibg-0T44?t=1029
+    media_type: youtube
+  - id: "fig-snyder-02"
+    src: figures/fig-snyder-02.png
+  - id: "fig-snyder-03"
+    src: figures/fig-snyder-03.png

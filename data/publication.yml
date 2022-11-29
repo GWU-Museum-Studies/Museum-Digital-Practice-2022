@@ -44,51 +44,15 @@ publisher:
 contributor_as_it_appears: Museums and Technology | George Washington University
 
 contributor:
-  - id: sanderson
-    type: primary
-    first_name: Suse
-    last_name: Anderson
-    title: Assistant Professor, Museum Studies
-    affiliation: The George Washington University
-    bio: "Dr. Suse Anderson (She/Her) is Assistant Professor, Museum Studies at [The George Washington University](https://corcoran.gwu.edu/museum-studies) and producer [museopunks](http://museopunks.org)–the podcast for the progressive museum. A former President of [MCN](http://mcn.edu), Anderson teaches courses related to museums and technology, ethics and visitor experience. She holds a PhD from The University of Newcastle, Australia. [Connect on Twitter.](http://twitter.com/shineslike)"
-    url:
-    pic: contributors/suse-anderson.jpg
   - id: abarilotti
     type: primary
     first_name: Alyssa
     last_name: Barilotti
     title:
     affiliation: The George Washington University
-    bio:
+    bio: "Alyssa Barilotti is a second-year graduate student at George Washington University, pursing a degree in Museum Studies with a concentration in Public Engagement. She holds a dual bachelors degree from Arcadia University in International Studies and French, with a focus on Conflict Resolution and Peacebuilding. Alyssa believes museums can be powerful agents for change, and has focused her studies on how museums can harness their soft power resources to address the most difficult global challenges. [Connect by email.](mailto:alyssabarilotti@gwu.edu)"
     url:
-    pic:
-  - id: swaltman
-    type: primary
-    first_name: Sam
-    last_name: Waltman
-    title:
-    affiliation: The George Washington University
-    bio: "Sam Waltman is a graduating MA student in the George Washington Museum Studies MA Program with a focus in collections management. Sam graduated from Dickinson College in 2020 with degrees in History and Educational Studies. Through internships at Fort Ticonderoga, the National Museum of American History and the National Endowment for the Humanities, Sam has developed a strong interest in the tools that museums use to manage and fund their collections projects. Sam has a special interest in how different mediums effect audience interpretation of information.  Sam currently works full time as a Collections Technician at George Washington’s Mount Vernon."
-    url:
-    pic: contributors/swaltman.jpg
-  - id: mvelardedeorbegoso
-    type: primary
-    first_name: Marisa Julia Pauli
-    last_name: Velarde de Orbegoso
-    title:
-    affiliation: The George Washington University
-    bio:
-    url:
-    pic:
-  - id: gbautista
-    type: primary
-    first_name: Grace
-    last_name: Bautista
-    title:
-    affiliation: The George Washington University
-    bio: "Grace Bautista (*she/her*) is a second-year museum studies student at the George Washington University, where she also received her BA in American studies. Through her concentration in public engagement, she has worked at the intersection of digital media, education, and public programs. Grace is currently an intern at the Smithsonian Asian Pacific American Center, where she is interested in building community through digital education resources. Email: [gbautista@gwu.edu](mailto:gbautista@gwu.edu)."
-    url:
-    pic: contributors/gbautista.jpg
+    pic: contributors/abarilotti.jpg
   - id: sbateman
     type: primary
     first_name: Samantha
@@ -98,15 +62,51 @@ contributor:
     bio: "Samantha Bateman (she/her/hers) is a Museum Studies graduate student at George Washington University concentrating in Museum Management. She received an A.A. in General Humanities from Montgomery College in 2017 and a B.A. in Anthropology from American University in 2019, after spending a semester in the Department of Anthropology and Institute of Archaeology at University of College London in 2018. Samantha believes that museums have the power to be positive changemakers in the communities they serve through championing accessibility and fostering life-long learning."
     url:
     pic: contributors/sbateman.jpg
-  - id: msnyder
+  - id: gbautista
     type: primary
-    first_name: Megan
-    last_name: Snyder
+    first_name: Grace
+    last_name: Bautista
+    title:
+    affiliation: The George Washington University
+    bio: "Grace Bautista (*she/her*) is a second-year museum studies student at the George Washington University, where she also received her BA in American studies. Through her concentration in public engagement, she has worked at the intersection of digital media, education, and public programs. Grace is currently an intern at the Smithsonian Asian Pacific American Center, where she is interested in building community through digital education resources. Email: [gbautista@gwu.edu](mailto:gbautista@gwu.edu)."
+    url:
+    pic: contributors/gbautista.jpg
+  - id: abessler
+    type: primary
+    first_name: Andrew
+    last_name: Bessler
     title:
     affiliation: The George Washington University
     bio:
     url:
     pic:
+  - id: kcanner
+    type: primary
+    first_name: Kirstin
+    last_name: Canner
+    title:
+    affiliation: The George Washington University
+    bio: "Kirstin Canner (she,her) graduated from The George Washington University's Museum Studies masters program in December 2022 with a concentration in Exhibitions and Visitor Experience. She also holds a Bachelor of Arts in Studio Art from High Point University. Prior to her GW journey, she managed The American Treasure Tour Museum, a small pop culture museum outside of Philadelphia. Kirstin has just concluded an internship with the Education Department at the [Capital Jewish Museum](https://capitaljewishmuseum.org/), and is looking forward to her next quirky museum job. Connect via email: kirstincanner@gmail.com or [LinkedIn](https://www.linkedin.com/in/kirstin-canner-9043a2159/)."
+    url:
+    pic: contributors/kcanner.png
+  - id: jcarkenord
+    type: primary
+    first_name: Jamie
+    last_name: Carkenord
+    title:
+    affiliation: The George Washington University
+    bio: "Jamie Carkenord is a first-year Museum Studies graduate student with a concentration in Exhibitions and Visitor Experience. Originally from Farmville, Virginia, she received a B.A. in American Studies from the College of William and Mary. She is interested in public history education and inclusive representation within art and history museums."
+    url:
+    pic: contributors/jcarkenord.jpg
+  - id: eday
+    type: primary
+    first_name: Elizabeth
+    last_name: Day
+    title:
+    affiliation: The George Washington University
+    bio: "Elizabeth Day is currently a museum studies graduate student at The George Washington University. She attended Saint Mary’s College, Notre Dame, IN, and received B.A.s in communication studies and history, and then Elizabeth worked as Assistant Curator & Collections Manager at the Peoria Riverfront Museum in Peoria, IL. Elizabeth dreams of restoring a Chateau in the South of France and giving historic tours of the property. In the meantime, she is open to any opportunity in the museum field."
+    url:
+    pic: contributors/eday.jpg
   - id: sfarver
     type: primary
     first_name: Sarah
@@ -116,6 +116,15 @@ contributor:
     bio: "Sarah Farver is a Museum Studies graduate student at the George Washington University. Her current role at The George Washington University Museum and The Textile Museum focuses on communications and the visitor experience. Farver pursues her passion for museum education as a volunteer at the National Archives Museum and her love of the performing arts as an usher at the Kennedy Center. She holds a BA in History with a certificate in Public History and a minor in Art History from The College of William & Mary. [Connect on LinkedIn](https://www.linkedin.com/in/sarah-farver-538539117/)."
     url:
     pic: contributors/sfarver.jpg
+  - id: jingrum
+    type: primary
+    first_name: Joey
+    last_name: Ingrum
+    title:
+    affiliation: The George Washington University
+    bio: "Joseph Ingrum is a second year Museum Studies graduate student at George Washington University with a concentration in collections management. He received a B.A. in history and archaeology from Lycoming College in 2018. He has worked with museum collections at Old Sturbridge Village, Montgomery History, and the Smithsonian Museum of American History. His goal is to one day help museums adopt methods to improve their full cataloging and inventorying projects."
+    url:
+    pic: contributors/jingrum.jpg
   - id: skaminski
     type: primary
     first_name: Sophia
@@ -126,88 +135,6 @@ contributor:
     [connect via email] (sophiackaminski99@gmail.com)"
     url:
     pic: contributors/skaminski.jpg
-  - id: jingrum
-    type: primary
-    first_name: Joey
-    last_name: Ingrum
-    title:
-    affiliation: The George Washington University
-    bio: "Joseph Ingrum is a second year Museum Studies graduate student at George Washington University with a concentration in collections management. He received a B.A. in history and archaeology from Lycoming College in 2018. He has worked with museum collections at Old Sturbridge Village, Montgomery History, and the Smithsonian Museum of American History. His goal is to one day help museums adopt methods to improve their full cataloging and inventorying projects."
-    url:
-    pic: contributors/jingrum.jpg
-  - id: kcanner
-    type: primary
-    first_name: Kirstin
-    last_name: Canner
-    title:
-    affiliation: The George Washington University
-    bio: "Kirstin Canner (she,her) graduated from The George Washington University's Museum Studies masters program in December 2022 with a concentration in Exhibitions and Visitor Experience. She also holds a Bachelor of Arts in Studio Art from High Point University. Prior to her GW journey, she managed The American Treasure Tour Museum, a small pop culture museum outside of Philadelphia. Kirstin has just concluded an internship with the Education Department at the [Capital Jewish Museum](https://capitaljewishmuseum.org/), and is looking forward to her next quirky museum job. Connect via email: kirstincanner@gmail.com or [LinkedIn](https://www.linkedin.com/in/kirstin-canner-9043a2159/)."
-    url:
-    pic: contributors/kcanner.png
-  - id: dmountin
-    type: primary
-    first_name: Diego
-    last_name: Mountin
-    title:
-    affiliation: The George Washington University
-    bio:
-    url:
-    pic:
-  - id: hspiering
-    type: primary
-    first_name: Hannah
-    last_name: Spiering
-    title:
-    affiliation: The George Washington University
-    bio:
-    url:
-    pic:
-  - id: eday
-    type: primary
-    first_name: Elizabeth
-    last_name: Day
-    title:
-    affiliation: The George Washington University
-    bio: "Elizabeth Day is currently a museum studies graduate student at The George Washington University. She attended Saint Mary’s College, Notre Dame, IN, and received B.A.s in communication studies and history, and then Elizabeth worked as Assistant Curator & Collections Manager at the Peoria Riverfront Museum in Peoria, IL. Elizabeth dreams of restoring a Chateau in the South of France and giving historic tours of the property. In the meantime, she is open to any opportunity in the museum field."
-    url:
-    pic: contributors/eday.jpg
-  - id: asantos
-    type: primary
-    first_name: Anissa
-    last_name: Santos
-    title:
-    affiliation: The George Washington University
-    bio: "Anissa Santos is a first-year graduate student in the Museum Studies program at The George Washington University with an emphasis in Exhibitions and Visitor Experience. She graduated from the University of Southern California (USC) with a Bachelor of Arts in Media Arts + Practice and a minor in History. She hopes to combine her digital media design experience and research expertise to pursue curatorial work, exhibition design, museum education, or public programming in the museum field. Email: [amsantos@gwu.edu](mailto:amsantos@gwu.edu) Website: [anissamsantos.com](http://anissamsantos.com)"
-    url:
-    pic: contributors/asantos.jpg
-  - id: etolman
-    type: primary
-    first_name: Elsa
-    last_name: Tolman
-    title:
-    affiliation: The George Washington University
-    bio: "Elsa Tolman (she/her) is pursuing a M.A. in Museum Studies at George Washington University with a concentration in collections management. She received her B.A. in Anthropology from Brigham Young University (Provo), with a focus on socio-cultural anthropology and archaeology. She has a particular interest in increasing inclusion and accessibility in digital and physical museum collections to better serve our communities.
-    Email: tolmanelsa@gmail.com LinkedIn: https://www.linkedin.com/in/elsatolman/"
-    url:
-    pic:
-  - id: mwilliams
-    type: primary
-    first_name: Megan
-    last_name: Williams
-    title:
-    affiliation: The George Washington University
-    bio:
-    url:
-    pic:
-  - id: dwiles
-    type: primary
-    first_name: Didi
-    last_name: Wiles
-    title:
-    affiliation: The George Washington University
-    bio:
-    url:
-    pic:
   - id: rkiss
     type: primary
     first_name: Raeana
@@ -226,25 +153,88 @@ contributor:
     bio:
     url:
     pic:
-  - id: jcarkenord
+  - id: msnyder
     type: primary
-    first_name: Jamie
-    last_name: Carkenord
-    title:
-    affiliation: The George Washington University
-    bio: "Jamie Carkenord is a first-year Museum Studies graduate student with a concentration in Exhibitions and Visitor Experience. Originally from Farmville, Virginia, she received a B.A. in American Studies from the College of William and Mary. She is interested in public history education and inclusive representation within art and history museums."
-    url:
-    pic: jcarkenord.jpg
-  - id: abessler
-    type: primary
-    first_name: Andrew
-    last_name: Bessler
+    first_name: Megan
+    last_name: Snyder
     title:
     affiliation: The George Washington University
     bio:
     url:
     pic:
-
+  - id: hspiering
+    type: primary
+    first_name: Hannah
+    last_name: Spiering
+    title:
+    affiliation: The George Washington University
+    bio: "Hannah Spiering is a second-year Master’s candidate in Museum Studies at George Washington University with a concentration in Museum Management. She earned B.A.’s from University of California, Los Angeles in Art History and Anthropology prior to pursuing her passion in museum work. She values the power of policy and currently interns with the U.S. Department of the Interior Museum Program in museum administration. Email: hkspiering@gmail.com"
+    url:
+    pic: contributors/hspiering.jpg
+  - id: asantos
+    type: primary
+    first_name: Anissa
+    last_name: Santos
+    title:
+    affiliation: The George Washington University
+    bio: "Anissa Santos is a first-year graduate student in the Museum Studies program at The George Washington University with an emphasis in Exhibitions and Visitor Experience. She graduated from the University of Southern California (USC) with a Bachelor of Arts in Media Arts + Practice and a minor in History. She hopes to combine her digital media design experience and research expertise to pursue curatorial work, exhibition design, museum education, or public programming in the museum field. Email: [amsantos@gwu.edu](mailto:amsantos@gwu.edu) Website: [anissamsantos.com](http://anissamsantos.com)"
+    url:
+    pic: contributors/asantos.jpg
+  - id: etolman
+    type: primary
+    first_name: Elsa
+    last_name: Tolman
+    title:
+    affiliation: The George Washington University
+    bio: "Elsa Tolman (she/her) is pursuing a M.A. in Museum Studies at George Washington University with a concentration in collections management. She received her B.A. in Anthropology from Brigham Young University (Provo), with a focus on socio-cultural anthropology and archaeology. She has a particular interest in increasing inclusion and accessibility in digital and physical museum collections to better serve our communities.
+    Email: tolmanelsa@gmail.com LinkedIn: https://www.linkedin.com/in/elsatolman/"
+    url:
+    pic: contributors/etolman.jpg
+  - id: mvelardedeorbegoso
+    type: primary
+    first_name: Marisa Julia Pauli
+    last_name: Velarde de Orbegoso
+    title:
+    affiliation: The George Washington University
+    bio:
+    url:
+    pic:
+  - id: swaltman
+    type: primary
+    first_name: Sam
+    last_name: Waltman
+    title:
+    affiliation: The George Washington University
+    bio: "Sam Waltman is a graduating MA student in the George Washington Museum Studies MA Program with a focus in collections management. Sam graduated from Dickinson College in 2020 with degrees in History and Educational Studies. Through internships at Fort Ticonderoga, the National Museum of American History and the National Endowment for the Humanities, Sam has developed a strong interest in the tools that museums use to manage and fund their collections projects. Sam has a special interest in how different mediums effect audience interpretation of information.  Sam currently works full time as a Collections Technician at George Washington’s Mount Vernon."
+    url:
+    pic: contributors/swaltman.jpg
+  - id: dwiles
+    type: primary
+    first_name: DiDi
+    last_name: Wiles
+    title:
+    affiliation: The George Washington University
+    bio: "DiDi Wiles is a Museum Studies graduate student at the George Washington University. Originally from Michigan, she moved to Connecticut with her family and now lives in Baltimore, Maryland. With her passion for history, DiDi received a B.A. in history and sociology from the University at Albany. She really enjoys researching anything that involves film history, pop culture history, and historical homes. In her spare time you can find her roller skating, watching and creating documentaries, or exploring museums in DC and Maryland."
+    url:
+    pic: contributors/dwiles.jpg
+  - id: mwilliams
+    type: primary
+    first_name: Megan
+    last_name: Williams
+    title:
+    affiliation: The George Washington University
+    bio: "Megan Williams (she/her) is a first year masters student at George Washington University, pursuing a degree in Anthropology with a concentration in museum training. She earned her B.S. in Anthropology from Kennesaw State University in Georgia. She is focusing her career on the decolonization of the museum and anthropology fields and how to create a more inclusive environment for all in these spaces. [LinkedIn](www.linkedin.com/in/megan-williams--)"
+    url:
+    pic: contributors/mwilliams.jpg
+  - id: sanderson
+    type: primary
+    first_name: Suse
+    last_name: Anderson
+    title: Assistant Professor, Museum Studies
+    affiliation: The George Washington University
+    bio: "Suse Anderson (she/her) is an Assistant Professor, Museum Studies at The George Washington University, and host of [Museopunks](http://museopunks.org) – the podcast for the progressive museum. For more than a decade, her work focused on the intersection of museums and technology, culminating in the 2020 publication of [The Digital Future of Museums: Conversations and Provocations](https://www.routledge.com/The-Digital-Future-of-Museums-Conversations-and-Provocations/Winesmith-Anderson/p/book/9781138589544), with Dr. Keir Winesmith. More recently, Anderson has become concerned with investigating contemporary ethical dilemmas confronting the field. She holds a PhD from The University of Newcastle, Australia. Since moving to Baltimore in 2014, Anderson has fallen in love with the city she now calls home. You should visit her there."
+    url:
+    pic: contributors/suse-anderson.jpg
 # ------------------------------------------------------------------------------
 # Copright & License
 # ------------------------------------------------------------------------------

@@ -2,11 +2,11 @@
 label: XIX
 title: title
 subtitle:
-weight: 48
+weight: 49
 type: essay
 class:
 contributor:
-  - id: rprice  
+  - id: abessler  
 abstract: |
 
 ---
