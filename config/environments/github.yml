@@ -11,5 +11,5 @@
 
 # Use these settings for GH Pages
 
-baseURL: "https://GWU-Museum-Studies.github.io/project-MSTDTech2022/" # Needs trailing slash
+baseURL: "https://GWU-Museum-Studies.github.io/Museum-Digital-Practice-2022/" # Needs trailing slash
 canonifyURLs: true
