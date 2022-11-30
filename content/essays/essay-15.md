@@ -93,3 +93,16 @@ With the addition of VOMAVERSE, hopefully VOMA can deliver on the wants and need
 [^12]: Lalla Merlin, “Inside VOMA: the Virtual Online Museum of Art”, *blooloop*, https://blooloop.com/museum/in-depth/voma-virtual-online-museum-of-art/.
 [^13]: Lalla Merlin, “Inside VOMA: the Virtual Online Museum of Art”, *blooloop*,
 https://blooloop.com/museum/in-depth/voma-virtual-online-museum-of-art/.
+[^14]: Lee, Amy. “Taking The Museum Experience Online With VOMA: The Virtual Online Museum Of Art”. *Arts Management & Technology*. https://amt-lab.org/reviews/2021/5/taking-the-museum-experience-online-with-voma.  
+[^15]: Lee, Amy. “Taking The Museum Experience Online With VOMA: The Virtual Online Museum Of Art”. *Arts Management & Technology*. https://amt-lab.org/reviews/2021/5/taking-the-museum-experience-online-with-voma.  
+[^16]:  Nalewicki, Jennifer. “The World’s First Entirely Virtual Art Museum Is Open for Visitors”. *Smithsonian Magazine*. https://www.smithsonianmag.com/travel/worlds-first-entirely-virtual-art-museum-is-open-for-visitors-18097.
+[^17]: Wall Text. Gallery Zero, Why We Shout: Art and Protest. Virtual Online Museum of Art. Web.
+[^18]: Nalewicki, Jennifer. “The World’s First Entirely Virtual Art Museum Is Open for Visitors”. *Smithsonian Magazine*. https://www.smithsonianmag.com/travel/worlds-first-entirely-virtual-art-museum-is-open-for-visitors-180975759/ .
+[^19]: VOMA, “Home”. https://www.voma.space/.
+[^20]: Kaplan, Deborah. “‘What Does It Matter Where My Body Happens to Be?’ A Personal View of Online Art Museum Tours.” *Journal of Museum Education* 46, no. 4 (2021): 531–546.
+[^21]: Kaplan, Deborah. “‘What Does It Matter Where My Body Happens to Be?’ A Personal View of Online Art Museum Tours.” *Journal of Museum Education* 46, no. 4 (2021): 531–546.
+[^22]: Statistica. “Number of internet and social media users worldwide as of July 2022”. https://www.statista.com/statistics/617136/digital-population-worldwide/.
+[^23]: Lalla Merlin, “Inside VOMA: the Virtual Online Museum of Art”, *blooloop*, https://blooloop.com/museum/in-depth/voma-virtual-online-museum-of-art/.
+[^24]: Conn, Steven. "Do Museums Still Need Objects?"" Philadelphia: University of Pennsylvania Press, 2010.
+[^25]: Matador Network, “VOMA Is the World’s First Fully Immersive Virtual Museum”, https://matadornetwork.com/read/voma-worlds-first-fully-immersive-virtual-museum/#:~:text=The%20Virtual%20Online%20Museum%20of,the%20Art%20Institute%20of%20Chicago.
+[^26]: Lalla Merlin, “Inside VOMA: the Virtual Online Museum of Art”, *blooloop*, https://blooloop.com/museum/in-depth/voma-virtual-online-museum-of-art/.
