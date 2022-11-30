@@ -1,8 +1,8 @@
 ---
-label: V
+label: III
 title: Patterns of Engagement
 subtitle:
-weight: 34
+weight: 32
 type: essay
 class:
 contributor:
