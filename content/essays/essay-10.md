@@ -1,7 +1,7 @@
 ---
 label: X
 title: Closing the Accessibility Gap
-subtitle: An Look at the Smithsonian Institution’s Use of Digital Technologies for Physically Impaired Visitors
+subtitle: A Look at the Smithsonian Institution’s Use of Digital Technologies for Physically Impaired Visitors
 weight: 39
 type: essay
 class:

@@ -20,7 +20,7 @@ figure_list:
     caption: "Immersive QR code sign made by the National Museum of Scotland for their exhibit, *The Typewriter Revolution* [Click to go to original blog](https://blog.nms.ac.uk/2022/07/19/qr-codes-in-museums-worth-the-effort/)"
     alt: "Screenshot showing a brown panel that contains a black typewriter icon with a QR code as the paper on top. Besides the icon is a label that reads “Typewriters in action. Scan the QR code with your smartphone to see a demonstration of the Columbia and Mignon typewriters.” Above the image is the title “The Typewriter Revolution” on the top left corner. There is also a caption below that reads “Designing the QR code into a typewriter helped integrate it into the visitor experience.”"
   - id: "fig-santos-06"
-    src: figures/fig-santos-06.png
+    src: figures/fig-santos-06.jpg
     caption: "Personal photo of QR codes being used to provide visitors access to various audio tours for the Leonardo da Vinci painting, *Ginevra de’Benci [obverse]* at the National Gallery of Art in Washington, DC, Fall 2022."
     alt: "Semi-blurry image of a light-brown vertical text panel on a darker beige wall. On the panel is an image of a woman, some text, and four QR codes stacked vertically with various tour names above each."
   - id: "fig-santos-07"
