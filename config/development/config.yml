@@ -9,6 +9,6 @@
 #
 # If you are using the Quire commands, this will happen automatically.
 
-baseURL: "https://GWU-Museum-Studies.github.io/Museum-Digital-Practice-2022/"
+baseURL: ""
 relativeURLs: true
 buildDrafts: true
