@@ -261,3 +261,21 @@ figure_list:
     src: figures/fig-snyder-02.png
   - id: "fig-snyder-03"
     src: figures/fig-snyder-03.png
+  - id: "fig-bessler-01"
+    src: figures/fig-bessler-01.jpg
+    caption: "Figure 1: A YouTube video from the University of Michigan College of Lierature, Science, and the Arts showcases how students used photogrammetry to further paleontological research. Posted December 10, 2018."
+    alt: "A YouTube video from the University of Michigan College of Lierature, Science, and the Arts that showcases how students used photogrammetry to further paleontological research. Professors and students provide examples including how 3D scanning was used to create and print models of missing animal skeletons."
+    media_id: aTpmESD-zrU
+    media_type: youtube
+  - id: "fig-bessler-02"
+    src: figures/fig-bessler-02.jpg
+    caption: "Figure 2: A YouTube video from the Smithsonian Channel that shows researchers using a CT Scanner to scan and measure the internal dimensions of string instruments. Posted November 17, 2017."
+    alt: "A YouTube video from the Smithsonian Channel that shows researchers using a CT Scanner to scan and measure the internal dimensions of string instruments. Host Tom Cavanagh observes the process of a delicate string instrument being placed in a CT Scanner. The researchers remark on how the data they collect is then provided to modern instrument manufacturers."
+    media_id: JJZ7iZQVBe4
+    media_type: youtube
+  - id: "fig-bessler-03"
+    src: figures/fig-bessler-03.jpg
+    caption: "Figure 3: A YouTube video from the North Carolina Museum of Art details a statue of Bacchus that was scanned using a structured light scanner as part of a reconstruction project. Posted August 14, 2020."
+    alt: "A YouTube video from the North Carolina Museum of Art details a statue of Bacchus that was scanned using a structured light scanner as part of a reconstruction project. Researchers use a human model to mold a replacement arm for the broken statue. They print a test model using a 3D printer before sculpting a final version to be fitted to the statue. Other broken elements of the statue are reattached and the artificial elements are painted to match the rest of the statue, completing the reconstruction."
+    media_id: k6C6iu_6OW4
+    media_type: youtube
