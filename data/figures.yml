@@ -279,3 +279,11 @@ figure_list:
     alt: "A YouTube video from the North Carolina Museum of Art details a statue of Bacchus that was scanned using a structured light scanner as part of a reconstruction project. Researchers use a human model to mold a replacement arm for the broken statue. They print a test model using a 3D printer before sculpting a final version to be fitted to the statue. Other broken elements of the statue are reattached and the artificial elements are painted to match the rest of the statue, completing the reconstruction."
     media_id: k6C6iu_6OW4
     media_type: youtube
+  - id: "fig-price-01"
+    src: figures/fig-price-01.jpg
+  - id: "fig-price-02"
+    src: figures/fig-price-02.jpg
+  - id: "fig-price-03"
+    src: figures/fig-price-03.jpg
+  - id: "fig-price-04"
+    src: figures/fig-price-04.jpg
