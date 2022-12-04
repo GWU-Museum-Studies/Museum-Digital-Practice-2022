@@ -1,5 +1,5 @@
 ---
-label: XX
+label: XXI
 title: The Immersive Gallery Phenomena
 subtitle: teamLab’s Borderless World of Art and Technology
 weight: 50

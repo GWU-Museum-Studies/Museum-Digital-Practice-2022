@@ -2,7 +2,7 @@
 label: XIX
 title: The Value Proposition of 3D Scanning
 subtitle:
-weight: 49
+weight: 48
 type: essay
 class:
 contributor:

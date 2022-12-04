@@ -132,7 +132,7 @@ contributor:
     title:
     affiliation: The George Washington University
     bio: "Sophia Kaminski is a second-year graduate student in George Washington University's Museum Studies program with a concentration in Collections Management. She earned her BS in History and minor in Sociology from Grand Valley State University located in Grand Rapids, Michigan. Currently, Sophia is an intern with Smithsonian's National Collections Program. Sophia's strong passion for museum ethics has and continues to guide her work.
-    [connect via email] (sophiackaminski99@gmail.com)"
+    [connect via email](sophiackaminski99@gmail.com)"
     url:
     pic: contributors/skaminski.jpg
   - id: rkiss
@@ -144,6 +144,15 @@ contributor:
     bio: "Raeana Kiss is pursuing an M.A. in Museum Studies at George Washington University, with a concentration in Exhibitions and Visitor Experience. She recently graduated from Cornell University with a B.A. in Biological Sciences, with a concentration in Ecology and Evolutionary Biology. In addition to her academic pursuits, Raeana's other passions include painting and hiking. She hopes to use her future museum career to help bridge the knowledge gap between scientific research and public understanding."
     url:
     pic: contributors/rkiss.jpg
+  - id: dmountin
+    type: primary
+    first_name: Diego
+    last_name: Mountin
+    title:
+    affiliation: The George Washington University
+    bio:
+    url:
+    pic:
   - id: rprice
     type: primary
     first_name: Rachael
