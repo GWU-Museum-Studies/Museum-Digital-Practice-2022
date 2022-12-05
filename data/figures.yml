@@ -196,11 +196,13 @@ figure_list:
   - id: "fig-kiss-01"
     src: figures/fig-kiss-01.png
     caption: "**Figure 1**: Using *The Planet through Deep Time* in the Fossil Hall."
+    alt: "The author demonstrates the interactive touch screen The Planet through Deep Time in the Fossil Hall at NMNH. The video shows the use of the timeline feature, the virtual three-dimensional model of the Earth, and various additional blurbs of information."
     media_id: Lu1OMQpp3Ps
     media_type: youtube
   - id: "fig-kiss-02"
     src: figures/fig-kiss-02.png
     caption: "**Figure 2**: Taking the quiz, *Take a Closer Look*, in the *Objects of Wonder* exhibit."
+    alt: "The author demonstrates the quiz Take a Closer Look in the Objects of Wonder exhibit at NMNH. The video shows the first three questions of the quiz, which are multiple choice and ask questions about close-up images of objects in the exhibit. The first and third questions are answered correctly; the second question is answered incorrectly."
     media_id: vuQh2cpsbhA
     media_type: youtube
   - id: "fig-kiss-03"
@@ -218,7 +220,7 @@ figure_list:
   - id: "fig-kiss-05"
     src: figures/fig-kiss-05.png
     caption: "**Figure 5**: Using the probability wheel interactive in the *Genome* exhibit."
-    alt: "The author demonstrates the probability wheel interactive in the *Genome* exhibit at NMNH."
+    alt: "The author demonstrates the quiz What’s Your Ocean Animal in the Ocean Hall at NMNH. The quiz asks three questions about the quiz-taker’s lifestyle preferences. At the end, the quiz gives a result for the ocean animal whose lifestyle most closely matches the quiz answers. In this case, the quiz result is the Deeep Sea Lizard Fish."
     media_id: 4SuX_VIayTs
     media_type: youtube
   - id: "fig-kiss-06"
@@ -228,13 +230,13 @@ figure_list:
   - id: "fig-kiss-08"
     src: figures/fig-kiss-08.png
     caption: "**Figure 8**: Using the *Morph Station* interactive in the Hall of Human Origins."
-    alt: "The author demonstrates the *Morph Station* in the Hall of Human Origins at NMNH."
+    alt: "The author demonstrates the Morph Station in the Hall of Human Origins at NMNH. First, the interactive takes a photo of her face in the photo booth. She then alters the position of the photo so it lines up with the interactive’s specifications of eye and mouth position. Eight ancient human species are presented, and Homo floresiensis is chosen. The interactive then morphs the photo with the image of Homo floresiensis and provides information about this species."
     media_id: rWefKqahxYI
     media_type: youtube
   - id: "fig-kiss-09"
     src: figures/fig-kiss-09.png
     caption: "**Figure 9**: A non-functional interactive in the *Genome* exhibit."
-    alt: "The author demonstrates a non-functional interactive in the *Genome* exhibit at NMNH. The video is recorded with a first-person point of view. A touchpad is embedded in a panel, with a caption that reads “Drag to move the cursor. Tap to select.” The author’s finger moves sporadically on the cursor and taps several times. The video pans up to the screen associated with the touchpad. It reads “Exploring Our Genomic Ancestry” with a bubble that says “Touch the Trackpad to Begin.” The camera pans back and forth between the touchpad and the screen, showing that the screen does not respond to the movement on the touchpad."
+    alt: "The author demonstrates a non-functional interactive in the Genome exhibit at NMNH. A touchpad is embedded in a panel. The touchpad is touched several times. The video pans up to the screen, where a bubble reads “Touch the Trackpad to Begin.” The camera pans back and forth between the touchpad and the screen, showing that the screen does not respond to any movement on the touchpad."
     media_id: QVD6TOHZ9s0
     media_type: youtube
   - id: "fig-barilotti-01"

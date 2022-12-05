@@ -25,7 +25,7 @@ Touch screens were the most common type of digital interactive that I encountere
 
 The Fossil Hall organizes exhibit elements in temporal order and takes the visitors backwards in time as they travel through it. There is also an elevated mezzanine section that runs alongside the exhibit hall, which mostly focuses on climate change. On this mezzanine, though, there were also three interactives on three pairs of touch screens, each pair featuring identical screens for two visitors to use independently. Each interactive provided a deep-dive into a topic related to the Fossil Hall.
 
-One of these, called *The Planet through Deep Time* ((Figure 1)[#fig-kiss-01.png]), focused on geologic time and the movement of tectonic plates around the globe. In the middle of the screen there was a three-dimensional model of the Earth that could be rotated by touching and dragging. Along the bottom of the screen, there was a timeline that could be dragged to show the Earth in a particular geologic period. Some areas of the timeline were marked, and when the timeline reached this point, the visitor could tap a blurb to reveal more information about each geologic period.
+One of these, called *The Planet through Deep Time* (Figure 1), focused on geologic time and the movement of tectonic plates around the globe. In the middle of the screen there was a three-dimensional model of the Earth that could be rotated by touching and dragging. Along the bottom of the screen, there was a timeline that could be dragged to show the Earth in a particular geologic period. Some areas of the timeline were marked, and when the timeline reached this point, the visitor could tap a blurb to reveal more information about each geologic period.
 
 {{< q-figure id="fig-kiss-01" >}}
 
@@ -34,7 +34,7 @@ This interactive contained a lot of information, and I felt like I could have st
 
 ### Quizzes
 #### Objects of Wonder – Take a Closer Look
-*Objects of Wonder* is an exhibit that shows highlights from the Smithsonian’s collection, often displaying the objects in arrangements that allow them to contrast with each other. The exhibit had a quiz titled *Take a Closer Look* ((Figure 2)[#fig-kiss-02.png]), which was displayed on a touch screen with four stations. It asks visitors ten trivia questions about the exhibit and then scores the visitors’ performance. Gamification is a strategy where game design elements are incorporated into learning experiences.[^21] Gamified learning can motivate learners, improve social engagement between people in the exhibit, and make learning transferable between many contexts.[^22] The Ocean Hall and *Objects of Wonder* exhibits have quiz elements on touch screens that function in a similar way to gamified learning experiences. In addition to providing feedback to visitors, they allow visitors engage to with each other by comparing their quiz results.
+*Objects of Wonder* is an exhibit that shows highlights from the Smithsonian’s collection, often displaying the objects in arrangements that allow them to contrast with each other. The exhibit had a quiz titled *Take a Closer Look* (Figure 2), which was displayed on a touch screen with four stations. It asks visitors ten trivia questions about the exhibit and then scores the visitors’ performance. Gamification is a strategy where game design elements are incorporated into learning experiences.[^21] Gamified learning can motivate learners, improve social engagement between people in the exhibit, and make learning transferable between many contexts.[^22] The Ocean Hall and *Objects of Wonder* exhibits have quiz elements on touch screens that function in a similar way to gamified learning experiences. In addition to providing feedback to visitors, they allow visitors engage to with each other by comparing their quiz results.
 
 {{< q-figure id="fig-kiss-02" >}}
 
@@ -46,7 +46,7 @@ While this interactive does use the touch screen medium, the primary purpose of 
 
 
 #### Ocean Hall – What’s Your Ocean Animal?
-The quiz featured in the Ocean Hall was not challenging visitors, but rather asked visitors questions to determine *What’s Your Ocean Animal?* ((Figure 3)[#fig-kiss-03.png]). The visitor is then matched to one ocean animal that fits the same answers to the questions that the visitor gave. This is conceptually similar to the popular online (Buzzfeed quizzes)[https://www.buzzfeed.com/quizzes].
+The quiz featured in the Ocean Hall was not challenging visitors, but rather asked visitors questions to determine *What’s Your Ocean Animal?* (Figure 3). The visitor is then matched to one ocean animal that fits the same answers to the questions that the visitor gave. This is conceptually similar to the popular online [Buzzfeed quizzes](https://www.buzzfeed.com/quizzes).
 
 {{< q-figure id="fig-kiss-03" >}}
 
@@ -62,7 +62,7 @@ The correct type of interactive for any given situation may not be the same as a
 
 This interactive was engaging and provided enough content to explore that I could have lingered there for quite a while. In that sense, it was similar to *The Planet through Deep Time* in the Fossil Hall. My main criticism of this element is that the touchpad required very fine motor control to navigate, and some visitors could have had difficulty controlling it accurately.
 
-The non-digital interactives, like piecing together DNA or spinning a wheel to explore the interaction between genetic characteristics and lifestyle choices ((Figure 5)[#fig-kiss-05.png]), were also very effective and had a game-like quality to them.
+The non-digital interactives, like piecing together DNA or spinning a wheel to explore the interaction between genetic characteristics and lifestyle choices (Figure 5), were also very effective and had a game-like quality to them.
 
 {{< q-figure id="fig-kiss-05" >}}
 
@@ -71,7 +71,7 @@ These interactives provide visitors with a wealth of information and interactive
 ### Skin & Bones – Augmented Reality Mobile App
 The Bone Hall at NMNH has a corresponding augmented reality (AR) mobile app called *Skin & Bones*. In recent years, AR apps and programs in the museum setting have increasingly been explored as another possibility for engaging visitors. AR exhibit elements have been found to enhance learning, promote flow experiences, and increase the amount of time visitors spend focusing on content.[^25] Experiments have explored the feasibility of wearable AR devices, and while they have also improved visitors’ focus, wearable AR can also reduce visitor-visitor interactions and cause visitors to be more isolated.[^26]
 
-In the Bone Hall, there are several skeletons on display with a green sticker nearby, indicating that they are included in *Skin & Bones*. The app provides additional information on the animals, scientists, and more in video, text, and animation format. Some of the skeletons can be scanned with the app, which will unlock an AR animation that overlays the skeleton. The design of the AR animations differed between specimens. Some of them displayed an illustration of the living animal superimposed on the skeleton, with no additional information ((Figure 6)[#fig-kiss-06.png]). Some, though, had narration and text, and some also added an animation of the skeleton. My personal favorite was the animation of the anhinga, an aquatic bird ((Figure 7)[#fig-kiss-07.png]). The animation used the real skeleton as a base, with the muscles superimposed on top to show how the muscles and bones interacted when the bird was moving. The animation was simple, understandable, and informative.
+In the Bone Hall, there are several skeletons on display with a green sticker nearby, indicating that they are included in *Skin & Bones*. The app provides additional information on the animals, scientists, and more in video, text, and animation format. Some of the skeletons can be scanned with the app, which will unlock an AR animation that overlays the skeleton. The design of the AR animations differed between specimens. Some of them displayed an illustration of the living animal superimposed on the skeleton, with no additional information ((Figure 6)[#fig-kiss-06.png]). Some, though, had narration and text, and some also added an animation of the skeleton. My personal favorite was the animation of the anhinga, an aquatic bird (Figure 7). The animation used the real skeleton as a base, with the muscles superimposed on top to show how the muscles and bones interacted when the bird was moving. The animation was simple, understandable, and informative.
 
 {{< q-figure id="fig-kiss-06" label="Figure 6" caption="AR swordfish on *Skin & Bones* app." alt="A screenshot of the interface when viewing the swordfish skeleton with the *Skin & Bones* app on an iPhone. There is an illustration of a living swordfish superimposed on the skeleton, in the same position that the skeleton is in. Along the top of the interface, there are several icons. There is an icon representing an animal, an icon representing a person, an icon of a vertebra with an “AR” tag next to it, an icon of a lightbulb with an “AR” tag next to it, and finally an icon of a hand. There is also an option to “Choose another skeleton,” plus “information” and “share” logos." >}}
 
@@ -83,13 +83,13 @@ The main purpose of *Skin & Bones* is to integrate interactivity into existing e
 ### Human Origins – Becoming Part of the Exhibit
 In the Hall of Human Origins, the NMNH provides unique digital interactive experiences that allow visitors to incorporate themselves into the exhibit content. Embodied exhibit elements, or physical experiences that allow people to engage with the exhibit using their whole bodies and their physical movements, have been shown to improve information recall for visitors.[^27] This is similar to the concept of tangible interactions, which occur when people interact with digital technology using their bodies and physical objects, not just screens.[^28] These tangible interactions allow museums to improve cultural literacy, learning, and play in the exhibit setting.[^29]
 
-The *Morph Station* in the Hall of Human Origins is an interactive in which visitors take a photo of their face in a photo booth, then choose a species of ancient human to “morph” into ((Figure 8)[#fig-kiss-08.png]). The screen superimposes the eyes and mouth from the photo onto a model of the ancient human. The exhibit also gives visitors the option to send themselves the morphed photo, to keep a memory of the visit to the museum.
+The *Morph Station* in the Hall of Human Origins is an interactive in which visitors take a photo of their face in a photo booth, then choose a species of ancient human to “morph” into (Figure 8). The screen superimposes the eyes and mouth from the photo onto a model of the ancient human. The exhibit also gives visitors the option to send themselves the morphed photo, to keep a memory of the visit to the museum.
 
 {{< q-figure id="fig-kiss-08" >}}
 
 Much like the Ocean Hall Quiz, this has relatively low educational value and mainly serves as a fun activity that can improve visitor enjoyment and social engagement between visitors. Despite the slow day at the museum when I visited, there were several people using the *Morph Station*, often comparing results. This interactive also personalizes the exhibit experience by incorporating the visitors’ faces. By physically embodying an ancient hominid, visitors can connect more intimately to the content and develop empathy for these people.
 
-The Hall of Human Origins also has some digital Q&A stations that challenge visitors’ thoughts. These have been (discussed)[https://ad-hoc-museum-collective.github.io/Museum-Digital-Practice-2021/essays/essay-14/] in a previous edition of *Museum Digital Practice*.
+The Hall of Human Origins also has some digital Q&A stations that challenge visitors’ thoughts. These have been [discussed](https://ad-hoc-museum-collective.github.io/Museum-Digital-Practice-2021/essays/essay-14/) in a previous edition of *Museum Digital Practice*.
 
 
 ## Criticisms of Interactives in Museums
@@ -101,9 +101,9 @@ A common criticism is the perception that museum interactives can “dumb down�
 These criticisms likely stem from the perception in American culture that learning and play are opposites, although museums and science centers have shown this to not be true in all cases.[^32] In fact, in the context of learning science, fun has been shown to help the public to see science and scientists in a more approachable way.[^33]
 
 ### Cost
-Another common concern about museum interactives, especially digital interactives, is that they can break easily and are expensive to develop and implement.[^34] For example, some digital interactives in the *Genome* exhibit had stopped working, often not progressing past the “Touch to Begin” screen ((Figure 9)[#fig-kiss-09.png]).
+Another common concern about museum interactives, especially digital interactives, is that they can break easily and are expensive to develop and implement.[^34] For example, some digital interactives in the *Genome* exhibit had stopped working, often not progressing past the “Touch to Begin” screen (Figure 9).
 
-{{< q-figure id="fig-kiss-08" >}}
+{{< q-figure id="fig-kiss-09" >}}
 
 One solution to this issue is to be more mindful of the types of interactives used, since they do not need to be costly or digital to be effective, as mentioned previously in the discussion of *Genome* at NMNH.[^35] Another solution is to consider durability and repairs during the development stage by understanding users and the possible ways those users may handle the interactives.[^36] This seems to be the case with the *Planet through Deep Time* touch screen in the Fossil Hall, which had somewhat low touch sensitivity. The screen was likely made to be more robust to prevent damage. Despite the risks, many museums ultimately decide that the enrichment of the exhibit experience makes these investments worth it.
 
