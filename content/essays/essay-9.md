@@ -79,7 +79,6 @@ In the Bone Hall, there are several skeletons on display with a green sticker ne
 
 The main purpose of *Skin & Bones* is to integrate interactivity into existing exhibit elements, rather than having designated interactive stations within the exhibit. While the cell phone is a touch screen, this is not a significant part of this interactive experience.
 
-
 ### Human Origins – Becoming Part of the Exhibit
 In the Hall of Human Origins, the NMNH provides unique digital interactive experiences that allow visitors to incorporate themselves into the exhibit content. Embodied exhibit elements, or physical experiences that allow people to engage with the exhibit using their whole bodies and their physical movements, have been shown to improve information recall for visitors.[^27] This is similar to the concept of tangible interactions, which occur when people interact with digital technology using their bodies and physical objects, not just screens.[^28] These tangible interactions allow museums to improve cultural literacy, learning, and play in the exhibit setting.[^29]
 
