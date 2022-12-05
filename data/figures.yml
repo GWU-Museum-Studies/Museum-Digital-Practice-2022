@@ -33,8 +33,8 @@ figure_list:
     alt: "Two images of an AR QR Code. On the left is the code with large text HIRO under. On the right is a mockup of the 3D figure that is generated from the code when scanned."
   - id: "fig-santos-09"
     src: figures/fig-santos-09.png
-    caption: "Made with [QR.io](https://qr.io/)"
-    alt: "A stylized, and scannable red, yellow, and green QR code. It is framed by an illustrated grey phone background with the caption “So Easy to Make.” QR code leads to writer's LinkedIn page."
+    caption: "Made with [flowcode.com] (https://www.flowcode.com/)"
+    alt: "A stylized and scannable circular white and blue QR code which leads to writer's LinkedIn page."
   - id: "fig-bautista-01"
     src: figures/fig-bautista-01.png
     caption:
@@ -76,11 +76,13 @@ figure_list:
   - id: "fig-carkenord-13"
     src: figures/fig-carkenord-13.jpg
   - id: "figures/fig-day-01"
-    src: figures/fig-day-01.jpg
+    src: figures/fig-day-01.png
     caption: "Figure 1: Screen recording of Buffalo AKG Art Museum’s *NFTs and the Future of Digital Art with Assistant Curator Tina Rivers Ryan* webinar. Includes information about the Museum’s digital art collection, the history of digital art, and NFTs. Recorded by author December 13, 2021."
-    alt: "Screen recording of the Buffalo AKG Art Museum's webinar. At the top left of the page is a white banner with the text 'Albright-Knox' with the title of the webinar 'NFTs and the Future of Digital Art' in the center. On the right a white woman with light hair appears on the screen. At the bottom of the woman’s end are the terms and conditions and a submit button."
-    media_id: v=63jxZqmZ0sE
+    alt: "Screen recording of the Buffalo AKG Art Museum's webinar. At the top left of the page is a white banner with the text 'Albright-Knox' with the title of the webinar 'NFTs and the Future of Digital Art' in the center. On the right a white woman with light hair appears on the screen."
+    media_id: 63jxZqmZ0sE
     media_type: youtube
+  - id: "figures/fig-day-02"
+    src: figures/fig-day-02.jpg
   - id: "fig-tolman-01"
     src: figures/fig-tolman-01.JPG
   - id: "fig-tolman-02"

@@ -53,7 +53,7 @@ Online learning has become a staple in the way many museums share information wi
 [^10]: ibid.
 [^11]: ibid.
 [^12]: “Cocktails with Curator” The Frick Collection, accessed October 2nd, 2022 https://www.frick.org/interact/miniseries/cocktails_curator
-[^13]: Whole. Radio GAMeC GameC Bergamo. Bergamo, Italy, March 22, 2020. https://www.gamec.it/en/radio-gamec/.
+[^13]: Radio GAMeC GameC Bergamo. Bergamo, Italy, March 22, 2020. https://www.gamec.it/en/radio-gamec/.
 [^14]: Ennes, Megan, and Imani Lee. 2021. “Distance Learning in Museums: A Review of the Literature”. The International Review of Research in Open and Distributed Learning 22 (3), 162-87. https://doi.org/10.19173/irrodl.v21i3.5387.
 [^15]: Pinson, Jerald. “IMuseum: The Difficulty with Distance Learning during a Pandemic.” Florida Museum. Florida Museum of Natural History, December 2, 2021. https://www.floridamuseum.ufl.edu/science/imuseum-the-difficulty-with-distance-learning-during-a-pandemic/.
 [^16]: Sullivan, Margaret, “Online Museum Exhibitions as Virtual Resources.” Knowledge Quest (blog), August 13th, 2020 https://knowledgequest.aasl.org/online-museum-exhibitions-as-virtual-learning-resources/
