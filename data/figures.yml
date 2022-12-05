@@ -75,13 +75,13 @@ figure_list:
     src: figures/fig-carkenord-12.jpg
   - id: "fig-carkenord-13"
     src: figures/fig-carkenord-13.jpg
-  - id: "figures/fig-day-01"
+  - id: "fig-day-01"
     src: figures/fig-day-01.png
     caption: "Figure 1: Screen recording of Buffalo AKG Art Museum’s *NFTs and the Future of Digital Art with Assistant Curator Tina Rivers Ryan* webinar. Includes information about the Museum’s digital art collection, the history of digital art, and NFTs. Recorded by author December 13, 2021."
     alt: "Screen recording of the Buffalo AKG Art Museum's webinar. At the top left of the page is a white banner with the text 'Albright-Knox' with the title of the webinar 'NFTs and the Future of Digital Art' in the center. On the right a white woman with light hair appears on the screen."
     media_id: 63jxZqmZ0sE
     media_type: youtube
-  - id: "figures/fig-day-02"
+  - id: "fig-day-02"
     src: figures/fig-day-02.jpg
   - id: "fig-tolman-01"
     src: figures/fig-tolman-01.JPG
@@ -257,7 +257,7 @@ figure_list:
     src: figures/invocations_Fig1_snyder.png
     caption: "Figure 1:Recording of the Invocations of the FOR THE PHOENIX TO FIND ITS FORM IN US exhibit, video posted by SAVVY Contemporary. Video includes a talk “For Those of Us the Algorithm Doesn’t See” given by Chao Tayiana Maina and Molemo Moiloa of Open Restitution Africa."
     alt: "Recording of the Invocations of the FOR THE PHOENIX TO FIND ITS FORM IN US exhibit. The talk presented relvant to this paper is “For Those of Us the Algorithm Doesn’t See” given by Chao Tayiana Maina and Molemo Moiloa of Open Restitution Africa."
-    media_id: MZRibg-0T44?t=1029
+    media_id: MZRibg-0T44?start=1029;
     media_type: youtube
   - id: "fig-snyder-02"
     src: figures/fig-snyder-02.png
