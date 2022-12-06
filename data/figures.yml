@@ -84,7 +84,7 @@ figure_list:
   - id: "fig-day-02"
     src: figures/fig-day-02.jpg
   - id: "fig-tolman-01"
-    src: figures/fig-tolman-01.JPG
+    src: figures/fig-tolman-01.jpg
   - id: "fig-tolman-02"
     src: figures/fig-tolman-02.jpg
   - id: "fig-tolman-03"
@@ -121,7 +121,7 @@ figure_list:
     media_type: vimeo
   - id: "fig-ingrum-04"
     src: figures/fig-ingrum-04.jpg
-    caption: "Figure 4: *HTC Vive Arts - Pompeii, the VR experience at Grand Palais* A behind the scenes look at how the Grand Palais, Ubisoft and Gedeon Programmes created *Pompeii: The VR Experience*"
+    caption: "Figure 3: *HTC Vive Arts - Pompeii, the VR experience at Grand Palais* A behind the scenes look at how the Grand Palais, Ubisoft and Gedeon Programmes created *Pompeii: The VR Experience*"
     alt: "A video on the behind the scenes process of creating *Pompeii: The VR Experience*. The video is in French with English subtitles. Includes interviews with developers and employees from the Grand Palais, Ubisoft, and Gedeon Programmes. People wearing VR headsets and working on computers are in the background of these interviews. Surveyors are seen scanning the original ruins in Pompeii and recreating this location on their computers."
     media_id: Lx3yXysSHrU
     media_type: youtube
