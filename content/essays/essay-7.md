@@ -126,6 +126,7 @@ I also suggest to the Galleries, Libraries, Archives, and Museums (GLAM) world t
 
 Archives have long used ‘archival silences’ as a cohesive term to describe a lacking of narratives due to collection bias. However, there is no currently used cohesive term to discuss this same problem in other kinds of institutions. Yet, it is a pervasive problem that many institutions have prioritized. I suggest utilizing the terms ‘collection silence’ or ‘curatorial silence’ moving forward to cohesively describe this issue, allowing for deeper conversations about solutions to develop. The suggested terms are not meant to apply to a lack of collection examples but to absences in the collection that result from collecting bias and are related to underrepresented and previously suppressed narratives.
 
+## Notes 
 [^1]: Museum as Site for Social Action Committee. *MASS Toolkit*. Museum as Site for Social Action, (Online Resource, 2017), 93. https://www.museumaction.org/resources/
 [^2]: “Museums do not just describe or collect cultural knowledge; they create it.”
 Museum as Site for Social Action Committee. *MASS Toolkit*. Museum as Site for Social Action, (Online Resource, 2017), 12. https://www.museumaction.org/resources/
