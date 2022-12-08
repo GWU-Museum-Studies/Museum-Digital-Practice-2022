@@ -144,6 +144,16 @@ contributor:
     bio: "Raeana Kiss is pursuing an M.A. in Museum Studies at George Washington University, with a concentration in Exhibitions and Visitor Experience. She recently graduated from Cornell University with a B.A. in Biological Sciences, with a concentration in Ecology and Evolutionary Biology. In addition to her academic pursuits, Raeana's other passions include painting and hiking. She hopes to use her future museum career to help bridge the knowledge gap between scientific research and public understanding."
     url:
     pic: contributors/rkiss.jpg
+  - id: dmountin
+    type: primary
+    first_name: Diego
+    last_name: Mountin
+    title:
+    affiliation: The George Washington University
+    bio: "Diego Mountin is a graduate student in George Washington University’s Museum Studies program on the Collections Management track. He earned his Bachelor’s degrees in History and Anthropology (Archaeology) at the University of California, San Diego in 2019.
+    Diego previously worked as a book repair assistant at the UCSD Library and interned at the Maritime Museum of San Diego. He is currently the Historic Site Assistant at Woodrow Wilson House in Washington DC. In his free time, Diego enjoys playing board games and tabletop RPGs with his friends."
+    url:
+    pic: contributors/dmountin.png
   - id: rprice
     type: primary
     first_name: Rachael

@@ -95,7 +95,7 @@ As a general recommendation, it is suggested that all webpages should be able to
 
 The NMAH's webpages are very effective in fulfilling this criterion. Each page allows for at least 200% magnification by changing the format of the page to still include all of the content. For example, as shown in *Video 1*,[^37] the tool bars previously on the side are moved to the top of the page and the images are changed to cover the entire page. Upon investigation, the pages allow for magnification to 300% and 400% through the shifting of their format to allow for logical organization of information and the shifting of box sizes to stop any text from being cut. Though the images are not increased in size after 200% magnification, they can be selected and then magnified further.
 
-{{< q-figure id=“fig-tolman-09” >}}
+{{< q-figure id="fig-tolman-09" >}}
 
 #### 7. Make controls accessible without a mouse
 

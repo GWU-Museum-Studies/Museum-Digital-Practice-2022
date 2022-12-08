@@ -103,7 +103,7 @@ figure_list:
     src: figures/fig-tolman-09.png
     caption: "NMAH's Digital Collection Webpage from 100-200% Magnification. Recorded by author November 18, 2022."
     alt: "Magnification of the “Battle between the Monitor and Merrimac” webpage from 100 percent to 200 percent. Magnification causes the text and text boxes to expand, and, at 150 percent, the three vertical lines of content to shift to 1 line."
-    media_id: v=W8rVdZrHbgg
+    media_id: W8rVdZrHbgg
     media_type: youtube
   - id: "fig-ingrum-01"
     src: figures/fig-ingrum-01.jpg
@@ -291,3 +291,27 @@ figure_list:
     src: figures/fig-price-03.jpg
   - id: "fig-price-04"
     src: figures/fig-price-04.jpg
+  - id: "fig-mountin-01"
+    src: figures/fig-mountin-01.png
+    caption: "Figure 1: The History Channel: Battle 360: WWII Begins in the Pacific (S1, E1)"
+    alt: ""
+    media_id: FE6GZuUONmM
+    media_type: youtube
+  - id: "fig-mountin-02"
+    src: figures/fig-mountin-02.jpeg
+    caption: "Figure 2: Epic History TV | HMS Victory: Total Guide"
+    alt: ""
+    media_id: 61SYvhojGvg?start=1353s;
+    media_type: youtube
+  - id: "fig-mountin-03"
+    src: figures/fig-mountin-03.jpeg
+    caption: "Figure 3: One World Trade Center: Elevator Ride"
+    alt: ""
+    media_id: ILbcWgP76vA
+    media_type: youtube
+  - id: "fig-mountin-04"
+    src: figures/fig-mountin-04.png
+    caption: "Figure 4: MFA Boston: Athena Reveals Her True Colors"
+    alt: ""
+    media_id: 1KIpXsesmSQ
+    media_type: youtube
