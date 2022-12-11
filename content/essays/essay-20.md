@@ -6,7 +6,7 @@ weight: 49
 type: essay
 class:
 contributor:
-  - id: mvelardedeorbegoso
+  - id: mvelarde
 abstract: |
 
 ---
