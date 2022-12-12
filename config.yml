@@ -37,7 +37,7 @@ params:
   pageLabelDivider: ". "
   citationPageLocationDivider: ", "
   contributorByline: name-title # name | name-title | false
-  displayBiblioShort: true
+  displayBiblioShort: false
   biblioHeading: "Bibliography"
   imageDir: "img"
   tocType: full
