@@ -71,11 +71,11 @@ Digital technology is a part of everyone’s day-to-day life and for those with 
 
 ## Notes
 [^1]: Victoria State Government, “Teach with Digital Technologies,” Victoria State Government, last modified September 25, 2019, https://www.education.vic.gov.au/school/teachers/teachingresources/digital/Pages/teach.aspx#.
-[^2]: Americans with Disabilities Act, “Maintaining Accessibility in Museums,” Americans with Disabilities Act, accessed November 3, 2022, https://www.ada.gov/business/museum_access.htm#:~:text=Regardless%20of%20size%20or%20income,or%20local%20governments%20are%20covered.
+[^2]: Americans with Disabilities Act, “Maintaining Accessibility in Museums,” Americans with Disabilities Act, accessed November 3, 2022, https://archive.ada.gov/business/museum_access.htm.
 [^3]: American Alliance of Museums, “Diversity, Equity, Accessibility, and Inclusion,” American Alliance of Museums, accessed October 11, 2022, https://www.aam-us.org/category/diversity-equity-inclusion-accessibility/.
 [^4]: American Alliance of Museums, “American Alliance of Museums 2022-2025 Strategic Framework,” American Alliance of Museums, accessed October 11, 2022, https://www.aam-us.org/programs/about-aam/american-alliance-of-museums-strategic-plan/.
 [^5]: Smithsonian Institution, “For Museum Professionals,” Smithsonian Institution, accessed October 11, 2022, https://access.si.edu/museum-professionals.
-[^6]: Americans with Disabilities Act, “Introduction to the ADA,” Americans with Disabilities Act, accessed November 3, 2022, https://www.ada.gov/ada_intro.htm#:~:text=The%20Americans%20with%20Disabilities%20Act,Bush.
+[^6]: Americans with Disabilities Act, “Introduction to the ADA,” Americans with Disabilities Act, accessed November 3, 2022, https://www.ada.gov/topics/intro-to-ada/.
 [^7]: Americans with Disabilities Act, “2010 ADA Standards for Accessible Design,” Americans with Disabilities Act, accessed November 3, 2022, https://www.ada.gov/regs2010/2010ADAStandards/2010ADAstandards.htm.
 [^8]: Americans with Disabilities Act, “Maintaining Accessibility in Museums.”
 [^9]: Access Smithsonian, “Resources,” Access Smithsonian, accessed November 4, 2022, https://access.si.edu/resources.
@@ -84,9 +84,9 @@ Digital technology is a part of everyone’s day-to-day life and for those with 
 [^12]: Elizabeth A. Courtney-Long et al., “Socioeconomic Factors at the Intersection of Race and Ethnicity Influencing Health Risks for People with Disabilities,” Journal of Racial and Ethnic Health Disparities 4, (2017): 213, https://doi.org/10.1007/s40615-016-0220-5.
 [^13]: McGlone, “Smithsonian’s Latino Gallery.”
 [^14]: National Museum of Asian Art, “Hands On with the Interactive Cosmic Buddha,” Smithsonian Institution, accessed November 5, 2022, https://asia.si.edu/interactive-cosmic-buddha/.
-[^15]: Hearing Link Services, “Hearing Loops,” Hearing Link Services, accessed November 5, 2022, https://www.hearinglink.org/technology/hearing-loops/what-is-a-hearing-loop/#:~:text=A%20hearing%20loop%20(sometimes%20called,T'%20(Telecoil)%20setting.
+[^15]: Hearing Link Services, “Hearing Loops,” Hearing Link Services, accessed November 5, 2022, https://www.hearinglink.org/technology/hearing-loops/what-is-a-hearing-loop/ (sometimes%20called,T'%20(Telecoil)%20setting.
 [^16]: Arizona State University Speech and Hearing Clinic, “What are Assistive Listening Devices,” Arizona State University, accessed November 5, 2022, https://asuspeechandhearingclinic.org/hearing/rehabilitation-services/assistive-listening-devices/what-are-assistive-listening-devices.
-[^17]: Hearing Loss Association of America, “Assistive Listening Systems,” HLAA, accessed November 6, 2022, https://www.hearingloss.org/hearing-help/technology/hat/alds/#:~:text=Assistive%20Listening%20Devices%20(ALDs)%20are,may%20filter%20some%20background%20noise.
+[^17]: Hearing Loss Association of America, “Assistive Listening Systems,” HLAA, accessed November 6, 2022, https://www.hearingloss.org/hearing-help/technology/hat/alds/.
 [^18]: National Association of the Deaf, “What is Captioning,” National Association of the Deaf, accessed November 6, 2022, https://www.nad.org/resources/technology/captioning-for-access/what-is-captioning/.
 [^19]: Carolyn Hinds (@CarrieCnh12), “It’s strange that people have to raise money for open caption devices that allow the hearing impaired to watch a movie that Disney marketed as being diverse, because…” Twitter, 7:12p.m., November 1, 2021, https://twitter.com/carriecnh12/status/1455311760525770754?s=46&t=R8kZm6yrcLId0hZSCyMrcw.
 [^20]: Author’s note: Linden Lab sold Sansar in 2020. The collaboration with Intel and the Smithsonian Institution occurred while they still owned the platform.
