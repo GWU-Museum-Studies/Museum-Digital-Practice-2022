@@ -1,0 +1,14 @@
+@media print {
+  /* Ensure title appears in front of background image */
+  .quire-cover .hero-body .container.is-fluid {
+    z-index: 1;
+  }
+  /* Fix display of sketchfab embed in pdf */
+  .sketchfab-embed-wrapper {
+    max-width: 100%;
+    page-break-inside: avoid;
+  }
+  .sketchfab-embed-wrapper * {
+    max-width: 100%;
+  }
+}
