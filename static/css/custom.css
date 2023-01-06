@@ -1,0 +1,6 @@
+@media print {
+  /* Ensure title appears in front of background image */
+  .quire-cover .hero-body .container.is-fluid {
+    z-index: 1;
+  }
+}
