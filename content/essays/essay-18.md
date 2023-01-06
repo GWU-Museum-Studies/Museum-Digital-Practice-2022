@@ -6,7 +6,7 @@ weight: 47
 type: essay
 class:
 contributor:
-  - id: abessler  
+  - id: abessler
 abstract: |
 
 ---
@@ -60,7 +60,7 @@ Beyond surface details, scans can also be used to uncover the hidden histories o
 When assessing the authenticity of a Qing Dynasty vase, the Walters Art Museum asked a radiologist to help them date the object.[^37] The museum had previously worked with the radiologist on mummified remains and wanted to see what a scan of the art piece might reveal. As it turned out, the piece had an even more complex design than originally believed, with interlocking components that explain how the piece was created. This example shows how 3D scanning can be used to reverse-engineer objects without having to physically deconstruct them. What the scans also revealed was a carefully completed and skillfully hidden repair at the base of the vase.[^38] As the piece was a gift for the royal family, it is considered unique for having a disguised defect as opposed to being flawless. Without the scans, these hidden gems would have remained undiscovered and unstudied.
 
 ## Access and Accessibility
-One of the main goals of digitization is the sharing of knowledge among both researchers and the public. 3D scanning has allowed more objects than ever to be shared online. The British Museum has 277 models on Sketchfab.[^39] each able to be viewed and downloaded for free. What is more, the files can be used in combination with 3D printers to create physical versions of 3D models. In the same 2013 article that covered 3D scanning, Museums and the Web also discussed the introduction of affordable 3D printers to the market.[^40] Originally developed for rapid prototyping in the fields of engineering, 3D printers use cheap materials to quickly create 3D models in accurate physical form.[^41] In most cases, the material is plastic, though some printers can print with materials such as clay or metal. The reduced cost of this technology allowed it to enter the museum field and unlock additional possibilities for 3D exploration.     
+One of the main goals of digitization is the sharing of knowledge among both researchers and the public. 3D scanning has allowed more objects than ever to be shared online. The British Museum has 277 models on Sketchfab.[^39] each able to be viewed and downloaded for free. What is more, the files can be used in combination with 3D printers to create physical versions of 3D models. In the same 2013 article that covered 3D scanning, Museums and the Web also discussed the introduction of affordable 3D printers to the market.[^40] Originally developed for rapid prototyping in the fields of engineering, 3D printers use cheap materials to quickly create 3D models in accurate physical form.[^41] In most cases, the material is plastic, though some printers can print with materials such as clay or metal. The reduced cost of this technology allowed it to enter the museum field and unlock additional possibilities for 3D exploration.
 
 3D prints can enhance the visitor experience in museums by combating the idea that touch should be forbidden when it comes to objects and artifacts.[^42] The Manacor Museum of History in Spain created 3D prints of 12 objects within their collection that had previously only been seen within glass cases.[^43] As an effort to combat the "hands off" ideology of museums, the chosen pieces were created in incredibly high detail so that visitors could experience the tactile feel of objects like hand-shaped pottery. They even went as far as to paint the printed objects to the point that they were nearly indistinguishable from their originals. This both protects and preserves the original objects while allowing visitors to experience the texture, size, and weight of objects they had only been able to view before.
 
@@ -76,7 +76,7 @@ Inviting a community to participate can lead to entirely new results. The Metrop
 ## Conclusion
 While the dive into the expensive and complex technology of 3D scanning can be daunting, it is no less the perfect time to integrate 3D digitization into standard practice. The market for 3D scanners and printers has been opened to the public, making them more affordable than ever. 3D technology is widely available, and the community of educators and students is expanding all the time. Identifying the goal of any digitization project is key to choosing the right tools for the job. Understanding the limitations of an individual museum can be daunting, but hopefully from the examples, it is clear that there are many avenues to explore with even the most basic devices. 3D scanning provides an opportunity for museums to further their internal goals while also allowing the chance to connect to their audiences by sharing the collections they hold inviting the audience to participate in learning about the opportunities provided by 3D tools.
 
-# Notes
+## Notes
 [^1]: Katz, Brigit, "Interact With the First 3-D Scan of the Rosetta Stone," Smithsonian Magazine, July 26, 2017. https://www.smithsonianmag.com/smart-news/interact-first-3-d-scan-rosetta-stone-180964205/
 [^2]: Furness, Dyllan, "The British Museum publishes the first 3D scan of the Rosetta Stone online," Digital Trends Media Group, July, 20, 2017. https://www.digitaltrends.com/cool-tech/3d-scan-rosetta-stone/
 [^3]: "The Rosetta Stone," Sketchfab, uploaded by the British Museum, July, 19 2017. https://sketchfab.com/3d-models/the-rosetta-stone-1e03509704a3490e99a173e53b93e282
@@ -122,4 +122,4 @@ While the dive into the expensive and complex technology of 3D scanning can be d
 [^44]: Barnes, Sarah, "Art Museums Are Creating 3D Versions of Paintings for Visually Impaired People To Touch," My Modern Met, January 22, 2021. https://mymodernmet.com/museum-3d-art-accessibility/
 [^45]: Flowers, Alex, "Taking sculptures for a walk: 3D printing and museum outreach," Victoria and Albert Museum, April 6, 2018. https://www.vam.ac.uk/blog/digital/taking-sculptures-for-a-walk-3d-printing-and-museum-outreach
 [^46]: Clohessy, Eilish, "Co-Producing a 3D Imaging Programme at Derby Museums," Sketchfab Blog, December 12, 2017. https://sketchfab.com/blogs/community/
-[^47]: Undeen, Don, "3D Scanning, Hacking, and Printing in Art Museums, for the Masses," The MET, October 15, 2013. https://www.metmuseum.org/blogs/digital-underground/posts/2013/3d-printing    
+[^47]: Undeen, Don, "3D Scanning, Hacking, and Printing in Art Museums, for the Masses," The MET, October 15, 2013. https://www.metmuseum.org/blogs/digital-underground/posts/2013/3d-printing
